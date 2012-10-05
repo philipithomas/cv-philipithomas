@@ -36,27 +36,70 @@
       <div class="navbar-inner">
         <div class="container">
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="#">Philip I. Thomas Curriculum Vitae</a>
+            </a>
+          <a class="brand" href="#">Curriculum Vitae</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#education">Education</a></li>
+              <li><a href="#experience">Experience</a></li>
+              <li><a href="#technical">Technical</a></li>
+              <li><a href="#honors">Honors</a></li>
+              
             </ul>
+            <div class="nav-collapse collapse pull-right">
+            <ul class="nav">
+              <li><a href="http://philipithomas.com" target="_blank>">Homepage</a></li>
+              <li class="dropdown ">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Links <i class="caret"></i>
+                            </a>
+
+                   <ul class="dropdown-menu ">
+                                <li><a href="http://linkedin.com/in/philiptihomas" target="_blank">LinkedIn</a></li>
+                <li><a href="http://github.com/philipithomas" target="_blank">Github</a></li>
+                <li><a href="http://twitter.com/philipithomas" target="_blank"><i class="icon-off"></i> Sign Out</a></li>
+            </ul>
+                                                </li>
+              <li><a href="/resume.pdf">Download PDF</a></li>          
+            </ul>
+            
           </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
 
     <div class="container">
-
+	   
       <h1>Philip I. Thomas Curriculum Vitae</h1>
       <p></p>
-
+      <section id="education">
+      <div class="page-header">
+      <h1>Education</h1>
+      </div>
+      </section>
+      
+      
+      
+      <section id="experience">
+      <div class="page-header">
+      <h1>Professional and Leadership Experience </h1>
+      </div>
+      </section>
+      
+      <section id="technical">
+      <div class="page-header">
+      <h1>Technical</h1>
+      </div>
+      </section>
+      
+      
+      <section id="honors">
+      <div class="page-header">
+      <h1>Honors</h1>
+      </div>
+      </section>
+      
     </div> <!-- /container -->
 
     <!-- Le javascript
