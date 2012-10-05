@@ -32,7 +32,7 @@
 
   <body data-spy="scroll" data-target=".navbar">
 
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -40,7 +40,7 @@
           <a class="brand" href="#">Curriculum Vitae</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li><a href="#">About</a></li>
+              <li><a href="#about">About</a></li>
               <li><a href="#education">Education</a></li>
               <li><a href="#experience">Experience</a></li>
               <li><a href="#technical">Technical</a></li>
@@ -60,19 +60,21 @@
                 <li><a href="http://github.com/philipithomas" target="_blank">Github</a></li>
                 <li><a href="http://twitter.com/philipithomas" target="_blank"><i class="icon-off"></i> Sign Out</a></li>
             </ul>
-                                                </li>
+               </li>
               <li><a href="/resume.pdf">Download PDF</a></li>          
             </ul>
-            
+            </div>
           </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
 
     <div class="container">
-	   
+	   <section id="about">
       <h1>Philip I. Thomas Curriculum Vitae</h1>
       <p></p>
+      
+    </section>
       <section id="education">
       <div class="page-header">
       <h1>Education</h1>
