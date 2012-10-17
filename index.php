@@ -175,8 +175,8 @@ function position($company,$city,$job,$dates,$blob) {
 	
 	echo '
 		<div class="row" style="padding: 6px 0 6px 0;">
-			<div class="span6"><h4>'.$company.'</h4></div>	
-			<div class="span6"><h4 class="pull-right">'.$city.'</h4></div>
+			<div class="span6"><h4 style="margin: 0">'.$company.'</h4></div>	
+			<div class="span6"><h4 class="pull-right" style="margin: 0">'.$city.'</h4></div>
 		</div> <!-- end row-->
 			
 		<div class="row">
