@@ -70,11 +70,19 @@
     </div>
 
     <div class="container">
-	   <section id="about">
+    <!-- Photo here soon -->
       <h1>Philip I. Thomas Curriculum Vitae</h1>
       <p></p>
       
-    </section>
+     <section id="about">
+      <div class="page-header">
+      <h1>About</h1>
+      </div>
+      
+      <div class="span12">Philip I. Thomas is a student and entrepreneur in St. Louis. He is currently in is senior year at Washington University in St. Louis, completing majors in Systems Engineering and Physics. After graduation in May 2013, he plans to pursuit a career in data analysis at a startup technology company.
+      </div>
+      </section>
+
       <section id="education">
       <div class="page-header">
       <h1>Education</h1>
