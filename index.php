@@ -184,3 +184,4 @@ function position($company,$city,$job,$dates,$blob) {
 			}	
 			
 }
+?>
