@@ -175,13 +175,13 @@ function position($company,$city,$job,$dates,$blob) {
 	
 	echo '
 		<div class="row">
-			<div class="span6"><h3>'.$company.'</h3></div>	
-			<div class="span6 pull-right"><h3 class="pull-right">'.$city.'</h3></div>
+			<div class="span6"><h4>'.$company.'</h4></div>	
+			<div class="span6 pull-right"><h4 class="pull-right">'.$city.'</h4></div>
 		</div> <!-- end row-->
 			
 		<div class="row">
 			<div class="span6"><span style="font-style:italic">'.$job.'</span></div>	
-			<div class="span6"><span style="font-style:italic">" class="pull-right">'.$dates.'</span></div>
+			<div class="span6"><span style="font-style:italic">'.$dates.'</span></div>
 		</div> <!-- end row-->
 		';
 		if (!empty($blob)) {
