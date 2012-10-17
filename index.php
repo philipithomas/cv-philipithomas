@@ -110,6 +110,12 @@
       <h2>Professional and Leadership Experience </h2>
       </div>
     </div> <!-- end row -->
+    <?php
+    position('Company','City',"This is a position","August-November 2012","<ul><li>Here is a long point about this company lorem ipsum etc</li><li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li></ul>");
+    position('Company','City',"This is a position","August-November 2012","<ul><li>Here is a long point about this company lorem ipsum etc</li><li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li></ul>");    
+    position('Company','City',"This is a position","August-November 2012",""); 
+        position('Company','City',"This is a position","August-November 2012","<ul><li>Here is a long point about this company lorem ipsum etc</li><li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li></ul>");
+           ?>
     
     
       </section>
@@ -156,19 +162,19 @@ These are some functions to make uniform sections
 
 */
 
-function position($title,$city,$position,$dates,$blob) {
+function position($company,$city,$job,$dates,$blob) {
 	/*
 	This function is for use in the experience section. It unififes formatting for the various positions. 
 	*/
 	
 	echo '
 		<div class="row">
-			<div class="span6" class="pull-left" style="font-weight: bold">'.$title.'</div>	
+			<div class="span6" class="pull-left" style="font-weight: bold">'.$company.'</div>	
 			<div class="span6 class="pull-right" style="font-weight: bold">'.$city'</div>
 		</div> <!-- end row-->
 			
 		<div class="row">
-			<div class="span6" class="pull-left" style="font-style:italic">'.$position.'</div>	
+			<div class="span6" class="pull-left" style="font-style:italic">'.$job.'</div>	
 			<div class="span6 class="pull-right" style="font-style:italic">'.$dates'</div>
 		</div> <!-- end row-->
 		';
