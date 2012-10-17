@@ -1,0 +1,8 @@
+display_errors on
+
+IndexIgnore *
+
+
+Options +Indexes
+RewriteEngine on
+RewriteBase /?
