@@ -71,14 +71,14 @@
 
     <div class="container">
     <!-- Photo here soon -->
-      <h1>Philip I. Thomas Curriculum Vitae</h1>
+      <h1 style="text-align: center">Philip I. Thomas Curriculum Vitae</h1>
       <p></p>
       
      <section id="about">
       <div class="row">
 
       <div class="page-header">
-      <h1>About</h1>
+      <h2>About</h2>
       </div>
       
       <div class="span12">Philip I. Thomas is a student and entrepreneur in St. Louis. He is currently in is senior year at Washington University in St. Louis, completing majors in Systems Engineering and Physics. After graduation in May 2013, he plans to pursuit a career in data analysis at a startup technology company.</div>
@@ -90,7 +90,7 @@
             <div class="row">
 
       <div class="page-header">
-      <h1>Education</h1>
+      <h2>Education</h2>
       </div>
             </div>
       </section>
@@ -101,7 +101,7 @@
             <div class="row">
 
       <div class="page-header">
-      <h1>Professional and Leadership Experience </h1>
+      <h2>Professional and Leadership Experience </h2>
       </div>
             </div>
       </section>
@@ -110,7 +110,7 @@
             <div class="row">
 
       <div class="page-header">
-      <h1>Technical</h1>
+      <h2>Technical</h2>
       </div>
             </div>
       </section>
@@ -120,7 +120,7 @@
             <div class="row">
 
       <div class="page-header">
-      <h1>Honors</h1>
+      <h2>Honors</h2>
       </div>
             </div>
       </section>
