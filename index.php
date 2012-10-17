@@ -97,7 +97,16 @@
       <h2>Education</h2>
       </div>
     </div> <!-- end row -->
+<?php
+position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of Science in Systems Engineering and Physics","Expected 5/13",'
+<ul>
+<li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
+<li><span style="font-weight: bold">Relevant Coursework:</span> Operations Research, Stochastic Models, Signals Analysis.</li>
+<li><span style="font-weight: bold">Senior Project:</span> Analysis of Aisle411 Usage Data  <span style="font-style:italic">(In Progress)</span></li>
+</ul>');
+position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","");
 
+?>
 
       </section>
       
@@ -111,10 +120,7 @@
       </div>
     </div> <!-- end row -->
     <?php
-    position('Company','City',"This is a position","August-November 2012","<ul><li>Here is a long point about this company lorem ipsum etc</li><li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li></ul>");
-    position('Company','City',"This is a position","August-November 2012","<ul><li>Here is a long point about this company lorem ipsum etc</li><li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li></ul>");    
-    position('Company','City',"This is a position","August-November 2012",""); 
-        position('Company','City',"This is a position","August-November 2012","<ul><li>Here is a long point about this company lorem ipsum etc</li><li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li>Bacon ipsum dolor sit amet pork belly ground round meatball venison cow jowl spare ribs boudin bresaola pastrami ham. Swine prosciutto flank, pancetta rump sirloin kielbasa boudin pork loin. Prosciutto beef shank tail.</li></ul>");
+   
            ?>
     
     
