@@ -102,7 +102,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <ul>
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Operations Research, Stochastic Models, Signals Analysis.</li>
-<li><span style="font-weight: bold">Senior Project:</span> Analysis of Aisle411 Usage Data  <span style="font-style:italic">(In Progress)</span></li>
+<li><span style="font-weight: bold">Senior Project:</span> Analysis of Aisle411 Usage Data <span style="font-style:italic">(In Progress)</span></li>
 </ul>');
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","");
 
@@ -180,8 +180,8 @@ function position($company,$city,$job,$dates,$blob) {
 		</div> <!-- end row-->
 			
 		<div class="row">
-			<div class="span6"><h4>'.$job.'</h4></div>	
-			<div class="span6"><h4 class="pull-right">'.$dates.'</h4></div>
+			<div class="span6"><span style="font-style:italic">'.$job.'</span></div>	
+			<div class="span6"><span style="font-style:italic">" class="pull-right">'.$dates.'</span></div>
 		</div> <!-- end row-->
 		';
 		if (!empty($blob)) {
