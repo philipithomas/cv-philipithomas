@@ -156,16 +156,25 @@ These are some functions to make uniform sections
 
 */
 
-function position($title,$city,$title,$dates,$blob) {
+function position($title,$city,$position,$dates,$blob) {
 	/*
 	This function is for use in the experience section. It unififes formatting for the various positions. 
 	*/
 	
-	echo '<div class="row">
-	<div class="span6" class="pull-left" style="font-weight: bold">'.$title.'</div>
-			
+	echo '
+		<div class="row">
+			<div class="span6" class="pull-left" style="font-weight: bold">'.$title.'</div>	
 			<div class="span6 class="pull-right" style="font-weight: bold">'.$city'</div>
-			</div> <!-- end row-->
+		</div> <!-- end row-->
 			
+		<div class="row">
+			<div class="span6" class="pull-left" style="font-style:italic">'.$position.'</div>	
+			<div class="span6 class="pull-right" style="font-style:italic">'.$dates'</div>
+		</div> <!-- end row-->
+		';
+		if (!empty($blob)) {
+			echo '
+			<div class="row">'.$blob.'</div>';
+			}	
 			
 }
