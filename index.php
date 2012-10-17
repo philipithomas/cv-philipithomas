@@ -71,8 +71,10 @@
 
     <div class="container">
     <!-- Photo here soon -->
+    <div class="row">
       <h1 style="text-align: center">Philip I. Thomas Curriculum Vitae</h1>
       <p></p>
+    </div> <!-- end row -->
       
      <section id="about">
       <div class="row">
@@ -80,9 +82,11 @@
       <div class="page-header">
       <h2>About</h2>
       </div>
+          </div> <!-- end row -->
+          <div class="row">
       
       <div class="span12">Philip I. Thomas is a student and entrepreneur in St. Louis. He is currently in is senior year at Washington University in St. Louis, completing majors in Systems Engineering and Physics. After graduation in May 2013, he plans to pursuit a career in data analysis at a startup technology company.</div>
-            </div>
+    </div> <!-- end row -->
 
       </section>
 
@@ -92,7 +96,9 @@
       <div class="page-header">
       <h2>Education</h2>
       </div>
-            </div>
+    </div> <!-- end row -->
+
+
       </section>
       
       
@@ -103,7 +109,9 @@
       <div class="page-header">
       <h2>Professional and Leadership Experience </h2>
       </div>
-            </div>
+    </div> <!-- end row -->
+    
+    
       </section>
       
       <section id="technical">
@@ -112,7 +120,9 @@
       <div class="page-header">
       <h2>Technical</h2>
       </div>
-            </div>
+    </div> <!-- end row -->
+      
+      
       </section>
       
       
@@ -122,7 +132,9 @@
       <div class="page-header">
       <h2>Honors</h2>
       </div>
-            </div>
+    </div> <!-- end row -->
+
+
       </section>
       
     </div> <!-- /container -->
@@ -135,3 +147,25 @@
 
   </body>
 </html>
+
+<?php
+
+/* 
+
+These are some functions to make uniform sections
+
+*/
+
+function position($title,$city,$title,$dates,$blob) {
+	/*
+	This function is for use in the experience section. It unififes formatting for the various positions. 
+	*/
+	
+	echo '<div class="row">
+	<div class="span6" class="pull-left" style="font-weight: bold">'.$title.'</div>
+			
+			<div class="span6 class="pull-right" style="font-weight: bold">'.$city'</div>
+			</div> <!-- end row-->
+			
+			
+}
