@@ -183,8 +183,10 @@ function position($company,$city,$job,$dates,$blob) {
 			
 		<div class="row">
 			<div class="span6"><span style="font-style:italic; font-size: 15px;">'.$job.'</span></div>	
-			<div class="span6"><span class="hidden-phone" style="font-style:italic; font-size: 15px;" class="pull-right">'.$dates.'</span>
+			<div class="span6">
 			<span class="visible-phone label">'.$dates.'</span>
+			<span class="hidden-phone" style="font-style:italic; font-size: 15px;" class="pull-right">'.$dates.'</span>
+			
 			</div>
 		</div> <!-- end row-->
 		';
