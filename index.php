@@ -176,12 +176,16 @@ function position($company,$city,$job,$dates,$blob) {
 	echo '
 		<div class="row" style="padding: 35px 0 4px 0;">
 			<div class="span6"><h4 style="margin: 0">'.$company.'</h4></div>	
-			<div class="span6"><h4 class="pull-right" style="margin: 0">'.$city.'</h4></div>
+			<div class="span6"><h4 class="pull-right hidden-phone" style="margin: 0">'.$city.'</h4>
+			</div>
+			
 		</div> <!-- end row-->
 			
 		<div class="row">
 			<div class="span6"><span style="font-style:italic; font-size: 15px;">'.$job.'</span></div>	
-			<div class="span6"><span style="font-style:italic; font-size: 15px;" class="pull-right">'.$dates.'</span></div>
+			<div class="span6"><span class="hidden-phone" style="font-style:italic; font-size: 15px;" class="pull-right">'.$dates.'</span>
+			<span class="visible-phone label">'.$dates.'</span>
+			</div>
 		</div> <!-- end row-->
 		';
 		if (!empty($blob)) {
