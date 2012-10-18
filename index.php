@@ -66,33 +66,12 @@
       </div>
     </div>
 -->
-<!-- old header>
     <div class="container">
     <div class="row">
       <h1 style="text-align: center">Philip I. Thomas</h1>
 		<h3 style="text-align: center">Curriculum Vitae</h3>
       <p></p>
-    </div>  end row -->
-      
-	<header class="jumbotron subhead" id="overview">
-	  <div class="row">
-	    <div class="span12">
-	      <h1 style="text-align: center">Philip I. Thomas</h1>
-	      <p class="lead" style="text-align: center">Curriculum Vitae</p>
-	    </div>
-	    
-	    </div>
-	  </div>
-	  <div class="subnav">
-	    <ul class="nav nav-pills">
-	      <li><a href="#typography">Typography</a></li>
-	      <li><a href="#navbar">Navbar</a></li>
-	      <li><a href="#buttons">Buttons</a></li>
-	      <li><a href="#forms">Forms</a></li>
-	      <li><a href="#miscellaneous">Miscellaneous</a></li>
-	    </ul>
-	  </div>
-	</header>
+    </div> 
 
 
 <div class="container">
