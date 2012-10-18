@@ -186,6 +186,16 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
       <h2>Technical</h2>
       </div>
     </div> <!-- end row -->
+
+	<div class="row">
+	    <div class="span3 offset3">
+		Python
+		</div>
+		<div class="span3">
+	      <div class="progress">
+	        <div class="bar" style="width: 60%;"></div>
+	      </div>
+	    </div>
       
       
       </section>
