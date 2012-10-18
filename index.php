@@ -187,16 +187,10 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
       </div>
     </div> <!-- end row -->
 
-	<div class="row">
-	    <div class="span3 offset3">
-		Python
-		</div>
-		<div class="span3">
-	      <div class="progress">
-	        <div class="bar" style="width: 60%;"></div>
-	      </div>
-	    </div>
-      
+<?php
+iprogram('Python','60');
+
+?>
       
       </section>
       
@@ -262,5 +256,21 @@ function position($company,$city,$job,$dates,$blob) {
 			<div class="row" style="padding-top: 8px;"><div class="span12">'.$blob.'</div></div>';
 			}	
 			
+}
+
+function iprogram($language,$percent) {
+	echo '
+	<div class="row">
+	    <div class="span4 offset2">
+		<h4>'.$language.'</h4>
+		</div>
+		<div class="span4">
+	      <div class="progress">
+	        <div class="bar" style="width: '.$percent.'%;"></div>
+	      </div>
+	    </div>
+	</div>
+	';
+	
 }
 ?>
