@@ -200,7 +200,11 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 
 
       </section>
-      
+
+      <footer>
+      <center>  <p>&copy; <a href="#">Philip I Thomas</a> 2012</p></center>
+      </footer>      
+
     </div> <!-- /container -->
 
     <!-- Le javascript
