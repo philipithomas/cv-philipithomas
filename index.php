@@ -69,7 +69,8 @@
     <div class="container">
     <!-- Photo here soon -->
     <div class="row">
-      <h1 style="text-align: center">Philip I. Thomas Curriculum Vitae</h1>
+      <h1 style="text-align: center">Philip I. Thomas</h1>
+		<h3 style="text-align: center">Curriculum Vitae</h3>
       <p></p>
     </div> <!-- end row -->
       
