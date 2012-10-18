@@ -195,7 +195,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
             <div class="row">
 
       <div class="page-header">
-      <h2>Honors</h2>
+      <h2>Honors and Skills</h2>
       </div>
     </div> <!-- end row -->
 
