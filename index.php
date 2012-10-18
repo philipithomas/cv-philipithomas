@@ -27,8 +27,8 @@
   
   </head>
 
-  <body data-spy="scroll" data-target=".navbar">
-
+  <body>
+<!--
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -61,11 +61,11 @@
               <li><a href="/resume.pdf">Download PDF</a></li>          
             </ul>
             </div>
-          </div><!--/.nav-collapse -->
+          </div>
         </div>
       </div>
     </div>
-
+-->
     <div class="container">
     <!-- Photo here soon -->
     <div class="row">
