@@ -67,11 +67,15 @@
     </div>
 -->
     <div class="container">
+	
+	<header class="jumbotron">
+		
     <div class="row">
       <h1 style="text-align: center">Philip I. Thomas</h1>
 		<h3 style="text-align: center">Curriculum Vitae</h3>
       <p></p>
     </div> 
+	</header>
 
 
      <!--     <section id="about">
@@ -340,7 +344,7 @@ function project($name,$look,$code) {
 	}
 	if (!empty($code)) {
 		// link to look at completed project
-		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i></span></a>';
+		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i>p</span></a>';
 	}
 	echo '</li>';
 }
