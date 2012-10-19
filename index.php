@@ -248,6 +248,7 @@ iprogram('Unix System Administration','40');
 			project('Kill The Landline','http://killthelandline.com','');
 		?>
 		</ul>
+		<a class="pull-right btn btn-small btn-inverse" href="http:/github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></a>
 	</div>
 </div>
 </div>
@@ -262,6 +263,8 @@ iprogram('Unix System Administration','40');
       <h2>Honors and Skills</h2>
       </div>
     </div> <!-- end row -->
+	<div class="row">
+	<div class="span8">
 	<?php
 	
 	extra('Awards','One<br />Two<br />Three<br />');
@@ -269,6 +272,21 @@ iprogram('Unix System Administration','40');
 	extra('Awards','One<br />Two<br />Three<br />');
 	
 	?>
+	</div>
+	<div class="well">
+		<h4>Selected Projects</h4>
+		<hr />
+		<ul>
+		<?php
+			project('Food Trucks Near Me','http://www.foodtrucksnearme.com','');
+			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
+			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
+			project('Curriculum Vitae','','https://github.com/philipithomas/cse131Java');
+			project('Kill The Landline','http://killthelandline.com','');
+		?>
+		</ul>
+	</div>
+	</div>
 
 
       </section>
@@ -289,7 +307,7 @@ iprogram('Unix System Administration','40');
 </html>
 
 <?php
-
+// =========================================================
 /* 
 
 These are some functions to make uniform sections
@@ -371,7 +389,7 @@ function extra($title,$blob) {
 					<span class="pull-right hidden-phone"><strong>'.$title.'</strong></span>
 					<span class="visible-phone badge">'.$title.'</span>
 				</div>
-				<div class="span9">
+				<div class="span5">
 					'.$blob.'
 				</div>
 			</div>';
