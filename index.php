@@ -315,7 +315,7 @@ function project($name,$look,$code) {
 	}
 	if (!empty($code)) {
 		// link to look at completed project
-		echo ' <a href="'.$code.'" target="_BLANK" class="label label-info">Code</a>';
+		echo ' <a href="'.$code.'" target="_BLANK""><span class="label label-info">Code</span></a>';
 	}
 }
 ?>
