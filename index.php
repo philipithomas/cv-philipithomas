@@ -155,7 +155,10 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
 	position("Washington University Tech Entrepreneurs (wute)","Saint Louis, MO","Director - wute.vc","9/11-Present",'
 	<ul>
-	<li>Launch wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs</li>
+	<li>Launched wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs, resulting in sponsorship by <a href="http://cultivationcaptital.com" target="_BLANK">Cultivation Capital</a>.</li>
+	<li>Attracted over 200 students to <a href="http://wute.vc/2012/10/press-release-alexis-ohanian-kicks-off-student-run-venture-capital-lecture-series-at-wustl/">first wute.vc speech by Reddit Co-Founder Alexis Ohanian</a> using a paperless marketing campaign</li>
+	<li>Designed <a href="http://wute.vc" target="_BLANK">wute.vc</a> and re-designed <a href="http://wute.org" target="_BLANK">wute.org</a> websites.</li>
+	<li>
 	</ul>', "http://wute.org");
 	
 	
