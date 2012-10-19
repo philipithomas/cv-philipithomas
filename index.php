@@ -248,7 +248,7 @@ iprogram('Unix System Administration','40');
 			project('Kill The Landline','http://killthelandline.com','');
 		?>
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></a>
+		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></i></a>
 	</div>
 </div>
 </div>
@@ -272,7 +272,8 @@ iprogram('Unix System Administration','40');
 	extra('Awards','One<br />Two<br />Three<br />');
 	
 	?>
-	</div><div class="span4">
+	</div>
+	<div class="span4">
 	<div class="well">
 		<h4>Selected Press</h4>
 		<hr />
