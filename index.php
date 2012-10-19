@@ -102,7 +102,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <li><span style="font-weight: bold">Relevant Coursework:</span> Operations Research, Stochastic Models, Signals Analysis.</li>
 <li><span style="font-weight: bold">Senior Project:</span> Analysis of Aisle411 Usage Data <span style="font-style:italic">(In Progress)</span></li>
 </ul>',"");
-position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","");
+position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
 
 ?>
 
