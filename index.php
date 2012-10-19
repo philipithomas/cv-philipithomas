@@ -314,11 +314,11 @@ function project($name,$look,$code) {
 	echo '<li>'.$name;
 	if (!empty($look)) {
 		// link to look at completed project
-		echo ' <a href="'.$look.'" target="_BLANK" ><span class="label">Visit</label></a>';
+		echo ' <a href="'.$look.'" target="_BLANK" ><span class="badge badge-inverse">Visit</label></a>';
 	}
 	if (!empty($code)) {
 		// link to look at completed project
-		echo ' <a href="'.$code.'" target="_BLANK""><span class="label label-info">Code</span></a>';
+		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code</span></a>';
 	}
 }
 ?>
