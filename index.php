@@ -360,7 +360,7 @@ function project($name,$look,$code) {
 	}
 	if (!empty($code)) {
 		// link to look at completed project
-		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i>p</span></a>';
+		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i></span></a>';
 	}
 	echo '</li>';
 }
