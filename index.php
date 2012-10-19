@@ -285,7 +285,7 @@ function position($company,$city,$job,$dates,$blob,$link) {
 		<div class="row" style="padding: 35px 0 4px 0;">
 			<div class="span8"><h4 style="margin: 0">'.$company;
 				if (!empty($link)) {
-					echo ' <a href="'.$link.'" target="_BLANK"><span class="badge">Website <i class="icon-arrow-right icon-white"></span></a>';
+					echo ' <a href="'.$link.'" target="_BLANK"><span class="badge">Website <i class="icon-arrow-right icon-white"></i></span></a>';
 				}
 			echo '</h4> 
 			
