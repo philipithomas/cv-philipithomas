@@ -212,9 +212,10 @@ iprogram('Unix System Administration','40');
 		<h4>Select Projects</h4>
 		<hr />
 		<ul>
-			<li>One project</li>
-			<li>Another Project</li>
-			<li>A third project. That's pretty cool.</li>
+		<?php
+			project('Food Trucks Near Me','http://foodtrucksnearme.com','');
+			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
+		?>
 		</ul>
 	</div>
 </div>
@@ -287,6 +288,7 @@ function position($company,$city,$job,$dates,$blob) {
 }
 
 function iprogram($language,$percent) {
+	// Progress bars for technical section
 	echo '
 	<div class="row">
 	    <div class="span2">
@@ -302,5 +304,18 @@ function iprogram($language,$percent) {
 	</div>
 	';
 	
+}
+
+function project($name,$look,$code) {
+	// Makes lists for displaying projects
+	echo '<li>'.$name;
+	if (!empty($look)) {
+		// link to look at completed project
+		echo ' <a href="'.$look.'" target="_BLANK" class="badge"><i class="icon-play"></i></a>';
+	}
+	if (!empty($code)) {
+		// link to look at completed project
+		echo ' <a href="'.$code.'" target="_BLANK" class="badge"><i class="icon-cog"></i></a>';
+	}
 }
 ?>
