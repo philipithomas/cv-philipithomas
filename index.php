@@ -320,6 +320,6 @@ function project($name,$look,$code) {
 		// link to look at completed project
 		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code</span></a>';
 	}
-	echo '</li>'
+	echo '</li>';
 }
 ?>
