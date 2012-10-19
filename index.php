@@ -76,6 +76,26 @@
 		<h3 style="text-align: center">Curriculum Vitae</h3>
 		</div>
     </div> 
+<div class="row">
+<div class="span4"></div>
+
+	<div class="span1">
+	<a href="http://philipithomas.com">Homepage</a>
+	</div>
+	<div class="span1">
+		<a href="mailto:mail@philipithomas.com">Contact</a>
+	</div>
+	<div class="span1">
+		<a href="http://philipithomas.com/press">Press</a>
+	</div>
+	<div class="span1">
+	<a href="http://linkedin.com/in/philipithomas">LinkedIn</a>
+	</div>
+</div>
+	
+	</div>
+	
+	<div class="span4">
 	</header>
 
 
