@@ -72,7 +72,7 @@
 		
     <div class="row">
 	<div class="span12">
-      <h1 style="text-align: center">Philip I. Thomas</h1>
+      <h1 style="text-align: center; font-size: 60px">Philip I. Thomas</h1>
 		<h3 style="text-align: center">Curriculum Vitae</h3>
 		</div>
     </div> 
