@@ -270,9 +270,11 @@ iprogram('Unix System Administration','40');
 	<div class="span8">
 	<?php
 	
-	extra('Awards','One<br />Two<br />Three<br />');
-	extra('Awards','One<br />Two<br />Three<br />');
-	extra('Awards','One<br />Two<br />Three<br />');
+	extra('Awards','Eagle Scout<br />Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com" target="_BLANK">Kill the Landline</a>)<br />Finalist in Spring
+	2011 Michigan Interactive Investments Competition');
+	extra('Language','Conversational Proficiency in Spanish');
+	extra('Organizations','The Engineer\'s Club of St. Louis');
+	extra('Interests','Salsa Dancing<br /><a href="http://beer.philipithomas.com" target="_BLANK">Craft Beer</a><br />Coffee<br />Rock Climbing');
 	
 	?>
 	</div>
