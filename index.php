@@ -261,14 +261,20 @@ These are some functions to make uniform sections
 
 */
 
-function position($company,$city,$job,$dates,$blob) {
+function position($company,$city,$job,$dates,$blob,$link) {
 	/*
 	This function is for use in the experience section. It unififes formatting for the various positions. 
 	*/
 	
 	echo '
 		<div class="row" style="padding: 35px 0 4px 0;">
-			<div class="span6"><h4 style="margin: 0">'.$company.'</h4></div>	
+			<div class="span6"><h4 style="margin: 0">'.$company.'</h4> 
+			';
+				if (!empty($link)) {
+					echo ' <a href="'.$link.'" target="_BLANK"><span class="badge badge-inverse">Visit</span></a>';
+				}
+			echo '
+			</div>	
 			<div class="span6"><h4 class="pull-right hidden-phone" style="margin: 0">'.$city.'</h4>
 			</div>
 			
@@ -288,6 +294,10 @@ function position($company,$city,$job,$dates,$blob) {
 			<div class="row" style="padding-top: 8px;"><div class="span12">'.$blob.'</div></div>';
 			}	
 			
+}
+function position($company,$city,$job,$dates,$blob,) {
+	// if no link
+	position($company,$city,$job,$dates,$blob,'');
 }
 
 function iprogram($language,$percent) {
