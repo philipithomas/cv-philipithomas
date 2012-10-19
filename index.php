@@ -182,7 +182,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Performed with audition-only salsa dance team, taught salsa lessons, and participated in community outreach.</li>
 	<li>Implemented improved website and email marketing system, resulting in 20% increase in annual audition attendance and 200% increase in weekly lesson retention throughout each semester.</li>
-	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012, resulting in over 500 students attending.</li>
+	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012, resulting in over 500 students attending each event.</li>
 	</ul>',"http://wusauce.wustl.edu");
 	
 	
