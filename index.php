@@ -80,16 +80,16 @@
 <div class="span4"></div>
 
 	<div class="span1">
-	<a href="http://philipithomas.com">Homepage</a>
+	<a href="http://philipithomas.com" class="btn btn-mini">Homepage</a>
 	</div>
 	<div class="span1">
-		<a href="mailto:mail@philipithomas.com">Contact</a>
+		<a href="mailto:mail@philipithomas.com" class="btn btn-mini">Contact</a>
 	</div>
 	<div class="span1">
-		<a href="http://philipithomas.com/press">Press</a>
+		<a href="http://philipithomas.com/press" class="btn btn-mini">Press</a>
 	</div>
 	<div class="span1">
-	<a href="http://linkedin.com/in/philipithomas">LinkedIn</a>
+	<a href="http://linkedin.com/in/philipithomas" class="btn btn-mini">LinkedIn</a>
 	</div>
 </div>
 	
