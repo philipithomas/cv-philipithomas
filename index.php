@@ -311,7 +311,7 @@ function iprogram($language,$percent) {
 
 function project($name,$look,$code) {
 	// Makes lists for displaying projects
-	echo '<li>'.$name;
+	echo '<li style="padding-top: 12px">'.$name;
 	if (!empty($look)) {
 		// link to look at completed project
 		echo ' <a href="'.$look.'" target="_BLANK" ><span class="badge badge-inverse">Visit</label></a>';
@@ -320,5 +320,6 @@ function project($name,$look,$code) {
 		// link to look at completed project
 		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code</span></a>';
 	}
+	echo '</li>'
 }
 ?>
