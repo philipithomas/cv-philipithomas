@@ -281,10 +281,9 @@ function position($company,$city,$job,$dates,$blob) {
 function iprogram($language,$percent) {
 	echo '
 	<div class="row">
-	    <div class="span2">
-		<p><h4 class="pull-right">'.$language.'</h4></p>
+	    <div class="span3">
+		<p><h4 style="text-align: right">'.$language.'</h4></p>
 		</div>
-		<div class="span1"></div>
 		<div class="span4">
 	      <div class="progress" style="margin: 10px 0 10px 0; height: 22px;">
 	        <div class="bar" style="width: '.$percent.'%;"></div>
