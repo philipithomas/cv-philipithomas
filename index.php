@@ -209,11 +209,11 @@ iprogram('Unix System Administration','40');
 </div>
 <div class="span4">
 	<div class="well">
-		<h4>Select Projects</h4>
+		<h4>Selected Projects</h4>
 		<hr />
 		<ul>
 		<?php
-			project('Food Trucks Near Me','http://foodtrucksnearme.com','');
+			project('Food Trucks Near Me','http://www.foodtrucksnearme.com','');
 			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
 		?>
 		</ul>
@@ -311,11 +311,11 @@ function project($name,$look,$code) {
 	echo '<li>'.$name;
 	if (!empty($look)) {
 		// link to look at completed project
-		echo ' <a href="'.$look.'" target="_BLANK" class="badge"><i class="icon-play"></i></a>';
+		echo ' <a href="'.$look.'" target="_BLANK" class="label">Visit</a>';
 	}
 	if (!empty($code)) {
 		// link to look at completed project
-		echo ' <a href="'.$code.'" target="_BLANK" class="badge"><i class="icon-cog"></i></a>';
+		echo ' <a href="'.$code.'" target="_BLANK" class="label-info label">Code <i class="icon-cog"></i></a>';
 	}
 }
 ?>
