@@ -158,7 +158,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Developed, launched, and marketed food truck finder website with successful launches in five cities, resulting in extensive media coverage and sustained web traffic.</li>
 	<li>Designed cross-platform CRM system to infer user cities of interest based on interactions with email updates and website, resulting in increased advertising relevancy for users.</li>
-	<li>Implemented automated social media system resulting in high return traffic.</li>
+	<li>Implemented automated cross-platform social media system resulting in high return traffic.</li>
 	</ul>',"http://foodtrucksnearme.com");
 	
 	
@@ -190,15 +190,15 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	position("Sapientia Media","St. Louis, MO","President","5/10-Present",'
 	<ul>
 	<li>Spearheaded client relation management, digital marketing strategy, website design, and brand positioning services.</li>
-	<li><span style="font-style:italic;">Selected Clients:</span> Evetos, On The Edge, St. Albans Promotions</li>
+	<li><span style="font-style:italic;">Selected Clients:</span> Evetos, On The Edge, St. Albans Promotions.</li>
 	</ul>',"http://sapientiamedia.com");
 	
 	
 	position("Washington University Student Investment Fund","St. Louis, MO","Communication Chair","1/10-6/12",'
 	<ul>
 	<li>Managed the investment of over $100,000 of the university endowment via qualitative, multiples, and DCF analysis, resulting in  growth exceeding S&P 500 Midcap Index on invested funds.</li>
-	<li>Competed nationally in investment competitions, and was a Finalist in the Spring 2011 <a href="http://miiuic.org/" target="_BLANK">Michigan Interactive Investments Competition</a> </li>
-	<li><span style="font-style:italic;">Previous Positions:</span> Technology Portfolio Manager (2010), Webmaster (2010-2011), Healthcare Analyst (2010)</li>
+	<li>Competed nationally in investment competitions, and was a Finalist in the Spring 2011 <a href="http://miiuic.org/" target="_BLANK">Michigan Interactive Investments Competition</a>.</li>
+	<li><span style="font-style:italic;">Previous Positions:</span> Technology Portfolio Manager (2010), Webmaster (2010-2011), Healthcare Analyst (2010).</li>
 	</ul>',"http://wusif.org");
 	
 	
