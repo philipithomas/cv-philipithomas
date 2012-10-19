@@ -87,8 +87,7 @@
 
 	</header>
 
-
-     <!--     <section id="about">
+<section id="about">
       <div class="row">
 
       <div class="page-header">
@@ -97,7 +96,7 @@
           </div> 
           <div class="row">
       
-      <div class="span12">Philip I. Thomas is a student and entrepreneur in St. Louis. He is currently in is senior year at Washington University in St. Louis, completing majors in Systems Engineering and Physics. After graduation in May 2013, he plans to pursuit a career in data analysis at a startup technology company.</div>
+      <div class="span12">Philip I. Thomas completes majors in Systems Engineering and Physics in May 2013 at Washington University in St. Louis. Proceeding graduation, he plans to pursuit a career in data analysis at a technology company.</div>
     </div> 
 
       </section>-->
