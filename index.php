@@ -184,7 +184,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	</ul>',"http://wusif.org");
 	
 	
-	position("Washington University in St. Louis Department of Computer Science","St. Louis, MO","Teaching Assistant, Introduction to Computing Tools: MATLAB","1/11-6/11",'');
+	position("Washington University in St. Louis Department of Computer Science","St. Louis, MO","Teaching Assistant, Introduction to Computing Tools: MATLAB","1/11-6/11","","");
 	
 	
    	position("Washington University School of Medicine in St. Louis","St. Louis, MO","Research Assistant, Dr. Jennifer Lodge Laboratory","9/09-1/12",'
