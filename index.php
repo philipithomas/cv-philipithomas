@@ -248,7 +248,7 @@ iprogram('Unix System Administration','40');
 			project('Kill The Landline','http://killthelandline.com','');
 		?>
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></i></a>
+		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></i></a><br /><br />
 	</div>
 </div>
 </div>
