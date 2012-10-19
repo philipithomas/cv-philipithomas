@@ -75,11 +75,11 @@
 		<h3 style="text-align: center; text-style: italic">Curriculum Vitae for</h3>
 		
       <h1 style="padding: 20px 0px; text-align: center; font-size: 60px">Philip I. Thomas</h1>
-	<span class="muted" style="text-align: center;"> 
+	<span class="" style="text-align: center;"> 
 		<address>
 		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
 		<a href="mailto:#">mail@philipithomas.com</a><br />
-		+1.209.867.7445gi
+		+1.209.867.7445
 		</address>
 	</span>
 		</div>
