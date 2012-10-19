@@ -191,11 +191,16 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
 	<div class="span8">
 <?php
-iprogram('Python','60');
-iprogram('Python','60');
-iprogram('Python','60');
-iprogram('Python','60');
-iprogram('Python','60');
+iprogram('Matlab','85');
+iprogram('PHP','90');
+iprogram('Java','55');
+iprogram('CSS','40');
+iprogram('Python','45');
+iprogram('Relational Databases','85');
+iprogram('NoSQL Databases','55')
+iprogram('Javascript','20');
+iprogram('Adobe CS6','40');
+
 
 ?>
 </div>
@@ -281,7 +286,7 @@ function position($company,$city,$job,$dates,$blob) {
 function iprogram($language,$percent) {
 	echo '
 	<div class="row">
-	    <div class="span3">
+	    <div class="span2">
 		<p><h4 style="text-align: right">'.$language.'</h4></p>
 		</div>
 		<div class="span4">
@@ -289,7 +294,7 @@ function iprogram($language,$percent) {
 	        <div class="bar" style="width: '.$percent.'%;"></div>
 	      </div>
 	    </div>
-		<div class="span1"></div>
+		<div class="span2"></div>
 	</div>
 	';
 	
