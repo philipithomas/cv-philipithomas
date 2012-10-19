@@ -310,10 +310,7 @@ function position($company,$city,$job,$dates,$blob,$link) {
 			}	
 			
 }
-function position($company,$city,$job,$dates,$blob) {
-	// if no link
-	position($company,$city,$job,$dates,$blob,'');
-}
+
 
 function iprogram($language,$percent) {
 	// Progress bars for technical section
