@@ -291,7 +291,7 @@ function iprogram($language,$percent) {
 	// Progress bars for technical section
 	echo '
 	<div class="row">
-	    <div class="span2">
+		<div class="span3"
 		<p><h4 style="text-align: right" class="hidden-phone">'.$language.'</h4></p>
 		<p><span class="badge visible-phone" style="text-align: center">'.$language.'</span></p>
 		</div>
@@ -300,7 +300,7 @@ function iprogram($language,$percent) {
 	        <div class="bar" style="width: '.$percent.'%;"></div>
 	      </div>
 	    </div>
-		<div class="span2"></div>
+		<div class="span1"></div>
 	</div>
 	';
 	
