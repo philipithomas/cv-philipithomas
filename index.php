@@ -78,7 +78,8 @@
 	<span class="muted" style="text-align: center;"> 
 		<address>
 		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
-		<a href="mailto:#">mail@philipithomas.com</a>
+		<a href="mailto:#">mail@philipithomas.com</a><br />
+		+1.209.867.7445
 		</address>
 	</span>
 		</div>
