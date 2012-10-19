@@ -233,6 +233,7 @@ iprogram('Javascript','20');
 iprogram('Adobe CS6','40');
 iprogram('Git','70');
 iprogram('Unix System Administration','40');
+iprogram('Mathematica','60');
 
 
 
