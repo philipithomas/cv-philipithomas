@@ -74,7 +74,6 @@
     </div> 
 
 
-<div class="container">
      <section id="about">
       <div class="row">
 
@@ -188,17 +187,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
       </div>
     </div> <!-- end row -->
 <div class="row">
-	<div class="span4 offset8">
-		<div class="well">
-			<h4>Select Projects</h4>
-			<hr />
-			<ul>
-				<li>One project</li>
-				<li>Another Project</li>
-				<li>A third project. That's pretty cool.</li>
-			</ul>
-		</div>
-	</div>
+
 	
 	<div class="span8">
 <?php
@@ -209,6 +198,17 @@ iprogram('Python','60');
 iprogram('Python','60');
 
 ?>
+</div>
+<div class="span4">
+	<div class="well">
+		<h4>Select Projects</h4>
+		<hr />
+		<ul>
+			<li>One project</li>
+			<li>Another Project</li>
+			<li>A third project. That's pretty cool.</li>
+		</ul>
+	</div>
 </div>
 </div>
       
