@@ -360,7 +360,13 @@ function project($name,$look,$code) {
 
 function extra($title,$blob) {
 	echo '<div class="row">
-				<div class="span2">
-				<span class="pull-right hidden-phone"><strong>'.$title.'</strong></
+				<div class="span3">
+					<span class="pull-right hidden-phone"><strong>'.$title.'</strong></span>
+					<span class="visible-phone badge">'.$title.'</span>
+				</div>
+				<div class="span9">
+					'.$blob.'
+				</div>';
+				
 }
 ?>
