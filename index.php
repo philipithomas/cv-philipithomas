@@ -248,7 +248,7 @@ iprogram('Unix System Administration','40');
 			project('Kill The Landline','http://killthelandline.com','');
 		?>
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http:/github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></a>
+		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></a>
 	</div>
 </div>
 </div>
@@ -274,17 +274,12 @@ iprogram('Unix System Administration','40');
 	?>
 	</div>
 	<div class="well">
-		<h4>Selected Projects</h4>
+		<h4>Selected Press</h4>
 		<hr />
 		<ul>
-		<?php
-			project('Food Trucks Near Me','http://www.foodtrucksnearme.com','');
-			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
-			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
-			project('Curriculum Vitae','','https://github.com/philipithomas/cse131Java');
-			project('Kill The Landline','http://killthelandline.com','');
-		?>
+			<li>St. Louis Business Journal: Philip Thomas at Startup Weekend <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/10/community-voices-philip-thomas-at.html?page=all"><span class="badge badge-inverse"><i class="icon-arrow-right icon-white"></i></a></li>
 		</ul>
+		<a class="pull-right btn btn-small btn-inverse" href="http://philipthomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></a>
 	</div>
 	</div>
 
@@ -374,7 +369,7 @@ function project($name,$look,$code) {
 	echo '<li style="padding-top: 12px">'.$name;
 	if (!empty($look)) {
 		// link to look at completed project
-		echo ' <a href="'.$look.'" target="_BLANK" ><span class="badge badge-inverse">Visit <i class="icon-arrow-right icon-white"></i></label></a>';
+		echo ' <a href="'.$look.'" target="_BLANK" ><span class="badge">Visit <i class="icon-arrow-right icon-white"></i></label></a>';
 	}
 	if (!empty($code)) {
 		// link to look at completed project
