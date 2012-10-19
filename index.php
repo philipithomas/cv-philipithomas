@@ -336,7 +336,7 @@ function project($name,$look,$code) {
 	echo '<li style="padding-top: 12px">'.$name;
 	if (!empty($look)) {
 		// link to look at completed project
-		echo ' <a href="'.$look.'" target="_BLANK" ><span class="badge badge-inverse">Visit</label></a>';
+		echo ' <a href="'.$look.'" target="_BLANK" ><span class="badge badge-inverse"><i class="icon-arrow-right icon-white"</i></label></a>';
 	}
 	if (!empty($code)) {
 		// link to look at completed project
