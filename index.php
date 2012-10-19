@@ -200,6 +200,9 @@ iprogram('Relational Databases','85');
 iprogram('NoSQL Databases','55'); 
 iprogram('Javascript','20');
 iprogram('Adobe CS6','40');
+iprogram('Git','70');
+iprogram('Unix System Administration','40');
+
 
 
 ?>
