@@ -289,7 +289,7 @@ iprogram('Mathematica','60');
 				<li>Forbes: <a href="http://www.forbes.com/sites/kaipetainen/2011/11/11/washu-students-provide-teva-some-healthy-love/">WashU Students Provide Teva Some Healthy Love</a></li>
 			<li>St. Louis Business Journal: <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/09/wutevc-starts-venture-capital-lecture.html">wute.vc starts venture capital lecture series</li>
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://philipthomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></I></a><br />
+		<a class="pull-right btn btn-small btn-inverse" href="http://philipithomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></I></a><br />
 	</div>
 	</div>
 	</div>
