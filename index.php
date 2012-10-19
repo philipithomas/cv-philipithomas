@@ -79,7 +79,7 @@
 		<address>
 		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
 		<a href="mailto:#">mail@philipithomas.com</a><br />
-		+1.209.867.7445
+		<a>+1.209.867.7445</a>
 		</address>
 	</span>
 		</div>
