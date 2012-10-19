@@ -280,7 +280,7 @@ iprogram('Unix System Administration','40');
 		<ul>
 			<li>St. Louis Business Journal: Philip Thomas at Startup Weekend <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/10/community-voices-philip-thomas-at.html?page=all"><span class="badge badge-inverse"><i class="icon-arrow-right icon-white"></i></a></li>
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://philipthomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></a>
+		<a class="pull-right btn btn-small btn-inverse" href="http://philipthomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></I></a>
 	</div>
 	</div>
 	</div>
