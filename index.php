@@ -215,6 +215,9 @@ iprogram('Unix System Administration','40');
 		<?php
 			project('Food Trucks Near Me','http://www.foodtrucksnearme.com','');
 			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
+			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
+			project('Curriculum Vitae','','https://github.com/philipithomas/cse131Java');
+			project('Kill The Landline','http://killthelandline.com','');
 		?>
 		</ul>
 	</div>
