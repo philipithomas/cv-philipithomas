@@ -101,7 +101,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Operations Research, Stochastic Models, Signals Analysis.</li>
 <li><span style="font-weight: bold">Senior Project:</span> Analysis of Aisle411 Usage Data <span style="font-style:italic">(In Progress)</span></li>
-</ul>');
+</ul>',"");
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","");
 
 ?>
@@ -285,7 +285,7 @@ function position($company,$city,$job,$dates,$blob,$link) {
 		<div class="row" style="padding: 35px 0 4px 0;">
 			<div class="span6"><h4 style="margin: 0">'.$company;
 				if (!empty($link)) {
-					echo ' <a href="'.$link.'" target="_BLANK"><span class="badge badge-inverse">Visit</span></a>';
+					echo ' <a href="'.$link.'" target="_BLANK"><span class="badge badge-info">Website</span></a>';
 				}
 			echo '</h4> 
 			
