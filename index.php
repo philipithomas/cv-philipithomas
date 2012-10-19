@@ -131,7 +131,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Develop, launch, and market food truck finder website</li>
 	<li>Design cross-platform CRM system to infer user cities of interest.</li>
-	</ul>');
+	</ul>',"http://foodtrucksnearme.com");
 	
 	
 	position("Cultivation Capital","Saint Louis, MO","Analyst","3/12-Present",'
@@ -186,7 +186,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 
 			
 	</li>
-	</ul>');
+	</ul>',"");
 
 
            ?>
@@ -283,12 +283,12 @@ function position($company,$city,$job,$dates,$blob,$link) {
 	
 	echo '
 		<div class="row" style="padding: 35px 0 4px 0;">
-			<div class="span6"><h4 style="margin: 0">'.$company.'</h4> 
-			';
+			<div class="span6"><h4 style="margin: 0">'.$company;
 				if (!empty($link)) {
 					echo ' <a href="'.$link.'" target="_BLANK"><span class="badge badge-inverse">Visit</span></a>';
 				}
-			echo '
+			echo '</h4> 
+			
 			</div>	
 			<div class="span6"><h4 class="pull-right hidden-phone" style="margin: 0">'.$city.'</h4>
 			</div>
