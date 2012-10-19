@@ -390,7 +390,7 @@ function project($name,$look,$code) {
 }
 
 function extra($title,$blob) {
-	echo '<div class="row" style="padding-top:30px">
+	echo '<div class="row" style="padding-bottom:30px">
 				<div class="span3">
 					<span class="pull-right hidden-phone"><strong>'.$title.'</strong></span>
 					<span class="visible-phone badge">'.$title.'</span>
