@@ -149,28 +149,28 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 
 	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
 	<ul>
-	<li>Equip businesses with marketing tools to capture, convert, and cultivate leads automatically.</li>
+	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
 	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels</li>
 	</ul>','http://automationkit.com');
 	
 	
 	position("Food Trucks Near Me","Saint Louis, MO","Founder","6/12-Present",'
 	<ul>
-	<li>Develop, launch, and market food truck finder website</li>
-	<li>Design cross-platform CRM system to infer user cities of interest.</li>
+	<li>Developed, launched, and marketed food truck finder website with successful launches in five cities, resulting in extensive media coverage, sustained web traffic, and advertising revenue.</li>
+	<li>Designed cross-platform CRM system to infer user cities of interest based on interactions with email updates and website, resulting in increased advertising relevancy for users.</li>
 	</ul>',"http://foodtrucksnearme.com");
 	
 	
 	position("Cultivation Capital","Saint Louis, MO","Analyst","3/12-Present",'
-	<ul>
-	<li>Perform screening and technical due diligence of prospective investments.</li>
+	<up
+	<li>Performed screening of potential investments with a focus on technical analysis of technology and operations for due diligence reporting. </li>
 	</ul>',"http://cultivationcapital.com");
 	
 	
 	position("Washington University Tech Entrepreneurs (wute)","Saint Louis, MO","Director - wute.vc","9/11-Present",'
 	<ul>
 	<li>Launched wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs, resulting in sponsorship by <a href="http://cultivationcaptital.com" target="_BLANK">Cultivation Capital</a>.</li>
-	<li>Attracted over 200 students to <a href="http://wute.vc/2012/10/press-release-alexis-ohanian-kicks-off-student-run-venture-capital-lecture-series-at-wustl/">first wute.vc speech by Reddit Co-Founder Alexis Ohanian</a> using a paperless marketing campaign</li>
+	<li>Attracted over 200 students to <a href="http://wute.vc/2012/10/press-release-alexis-ohanian-kicks-off-student-run-venture-capital-lecture-series-at-wustl/">first wute.vc speech by Reddit Co-Founder Alexis Ohanian</a> using a paperless marketing campaign.</li>
 	<li>Designed <a href="http://wute.vc" target="_BLANK">wute.vc</a> and re-designed <a href="http://wute.org" target="_BLANK">wute.org</a> websites.</li>
 	</ul>', "http://wute.org");
 	
@@ -181,7 +181,8 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	position("WUSauce","St. Louis, MO","Communication Chair","9/10-Present",'
 	<ul>
 	<li>Performed with audition-only salsa dance team, taught salsa lessons, and participated in community outreach.</li>
-	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012</li>
+	<li>Implemented improved website and email marketing system, resulting in 20% increase in annual audition attendance and 200% increase in weekly lesson retention throughout each semester.</li>
+	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012, resulting in over 500 students attending.</li>
 	</ul>',"http://wusauce.wustl.edu");
 	
 	
@@ -194,8 +195,8 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
 	position("Washington University Student Investment Fund","St. Louis, MO","Communication Chair","1/10-6/12",'
 	<ul>
-	<li>Managed the investment of over $100,000 of the university endowment via qualitative, multiples, and DCF analysis.</li>
-	<li>Competed nationally in investment competitions</li>
+	<li>Managed the investment of over $100,000 of the university endowment via qualitative, multiples, and DCF analysis, resulting in  growth exceeding S&P 500 Midcap Index on invested funds.</li>
+	<li>Competed nationally in investment competitions, and was a Finalist in the Spring 2011 <a href="http://miiuic.org/" target="_BLANK">Michigan Interactive Investments Competition</a> </li>
 	<li><span style="font-style:italic;">Previous Positions:</span> Technology Portfolio Manager (2010), Webmaster (2010-2011), Healthcare Analyst (2010)</li>
 	</ul>',"http://wusif.org");
 	
