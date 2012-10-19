@@ -72,28 +72,18 @@
 		
     <div class="row">
 	<div class="span12">
+		<h3 style="text-align: center; text-style: italic">Curriculum Vitae for</h3>
+		
       <h1 style="text-align: center; font-size: 60px">Philip I. Thomas</h1>
-		<h3 style="text-align: center">Curriculum Vitae</h3>
+	<span class="muted" style="text-align: center;"> 
+		<address>
+		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
+		<a href="mailto:#">mail@philipithomas.com</a>
+		</address>
+	</span>
 		</div>
     </div> 
-<div class="row">
-	<div class="span4"></div>
 
-	<div class="span1" style="text-align:center">
-	<a href="http://philipithomas.com" target="_BLANK" class="btn btn-small btn-block">Homepage</a>
-	</div>
-	<div class="span1" style="text-align:center">
-		<a href="mailto:mail@philipithomas.com"  target="_BLANK" class="btn btn-small btn-block">Contact</a>
-	</div>
-	<div class="span1" style="text-align:center">
-		<a href="http://philipithomas.com/press"  target="_BLANK" class="btn btn-small btn-block">Press</a>
-	</div>
-	<div class="span1" style="text-align:center">
-	<a href="http://linkedin.com/in/philipithomas"  target="_BLANK" class="btn btn-small btn-block">LinkedIn</a>
-	</div>
-		
-	<div class="span4">
-</div>
 	</header>
 
 
