@@ -272,7 +272,7 @@ iprogram('Unix System Administration','40');
 	extra('Awards','One<br />Two<br />Three<br />');
 	
 	?>
-	</div>
+	</div><div class="span8">
 	<div class="well">
 		<h4>Selected Press</h4>
 		<hr />
@@ -280,6 +280,7 @@ iprogram('Unix System Administration','40');
 			<li>St. Louis Business Journal: Philip Thomas at Startup Weekend <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/10/community-voices-philip-thomas-at.html?page=all"><span class="badge badge-inverse"><i class="icon-arrow-right icon-white"></i></a></li>
 		</ul>
 		<a class="pull-right btn btn-small btn-inverse" href="http://philipthomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></a>
+	</div>
 	</div>
 	</div>
 
