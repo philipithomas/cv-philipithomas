@@ -124,41 +124,55 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Equip businesses with marketing tools to capture, convert, and cultivate leads automatically.</li>
 	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels</li>
-	</ul>');
+	</ul>','http://automationkit.com');
+	
+	
 	position("Food Trucks Near Me","Saint Louis, MO","Founder","6/12-Present",'
 	<ul>
 	<li>Develop, launch, and market food truck finder website</li>
 	<li>Design cross-platform CRM system to infer user cities of interest.</li>
 	</ul>');
+	
+	
 	position("Cultivation Capital","Saint Louis, MO","Analyst","3/12-Present",'
 	<ul>
 	<li>Perform screening and technical due diligence of prospective investments.</li>
-	</ul>');
+	</ul>',"http://cultivationcapital.com");
+	
+	
 	position("Washington University Tech Entrepreneurs (wute)","Saint Louis, MO","Director - wute.vc","9/11-Present",'
 	<ul>
 	<li>Launch wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs</li>
-	</ul>');
+	</ul>', "http://wute.org");
+	
 	
 	position("Washington University in St. Louis Department of Physics","Saint Louis, MO","Teaching Assistant, General Physics I and General Physics II","8/11-Present",'');
+	
+	
 	position("WUSauce","St. Louis, MO","Communication Chair","9/10-Present",'
 	<ul>
 	<li>Performed with audition-only salsa dance team, taught salsa lessons, and participated in community outreach.</li>
 	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012</li>
-	</ul>');
+	</ul>',"http://wusauce.wustl.edu");
+	
+	
 	position("Sapientia Media","St. Louis, MO","President","5/10-Present",'
 	<ul>
 	<li>Spearheaded client relation management, digital marketing strategy, website design, and brand positioning services.</li>
 	<li><span style="font-style:italic;">Selected Clients:</span> Evetos, On The Edge, St. Albans Promotions</li>
-	</ul>');
+	</ul>',"http://sapientiamedia.com");
+	
 	
 	position("Washington University Student Investment Fund","St. Louis, MO","Communication Chair","1/10-6/12",'
 	<ul>
 	<li>Managed the investment of over $100,000 of the university endowment via qualitative, multiples, and DCF analysis.</li>
 	<li>Competed nationally in investment competitions</li>
 	<li><span style="font-style:italic;">Previous Positions:</span> Technology Portfolio Manager (2010), Webmaster (2010-2011), Healthcare Analyst (2010)</li>
-	</ul>');
+	</ul>',"http://wusif.org");
+	
 	
 	position("Washington University in St. Louis Department of Computer Science","St. Louis, MO","Teaching Assistant, Introduction to Computing Tools: MATLAB","1/11-6/11",'');
+	
 	
    	position("Washington University School of Medicine in St. Louis","St. Louis, MO","Research Assistant, Dr. Jennifer Lodge Laboratory","9/09-1/12",'
 	<ul>
@@ -173,6 +187,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 			
 	</li>
 	</ul>');
+
 
            ?>
     
