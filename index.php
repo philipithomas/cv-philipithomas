@@ -150,7 +150,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
 	<ul>
 	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
-	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels</li>
+	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
 	</ul>','http://automationkit.com');
 	
 	
@@ -158,6 +158,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Developed, launched, and marketed food truck finder website with successful launches in five cities, resulting in extensive media coverage and sustained web traffic.</li>
 	<li>Designed cross-platform CRM system to infer user cities of interest based on interactions with email updates and website, resulting in increased advertising relevancy for users.</li>
+	<li>Implemented automated social media system resulting in high return traffic.</li>
 	</ul>',"http://foodtrucksnearme.com");
 	
 	
