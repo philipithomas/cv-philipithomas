@@ -206,7 +206,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
    	position("Washington University School of Medicine in St. Louis","St. Louis, MO","Research Assistant, Dr. Jennifer Lodge Laboratory","9/09-1/12",'
 	<ul>
-	<li>Studied pathogenic fungus <span style="font-style:italic;">Cryptococcus neoformans</span> with in vitro, in vivo, and computational techniques.</li>
+	<li>Studied pathogenic fungus <a href="http://en.wikipedia.org/wiki/Cryptococcus_neoformans" target="_BLANK"><span style="font-style:italic;">Cryptococcus neoformans</span></a> with in vitro, in vivo, and computational techniques.</li>
 	<li>Selected Project Experience:
 		<ul>
 			<li>Bioinformatics – Designed, developed, and implemented a scalable <span style="font-style:italic;">C. neoformans</span> Strain Database for collaborative use in the scientific community. </li>
