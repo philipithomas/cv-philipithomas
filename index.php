@@ -197,7 +197,7 @@ iprogram('Java','55');
 iprogram('CSS','40');
 iprogram('Python','45');
 iprogram('Relational Databases','85');
-iprogram('NoSQL Databases','55')
+iprogram('NoSQL Databases','55'); 
 iprogram('Javascript','20');
 iprogram('Adobe CS6','40');
 
