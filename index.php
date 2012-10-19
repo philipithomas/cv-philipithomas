@@ -99,7 +99,7 @@
       <div class="span12">Philip I. Thomas completes majors in Systems Engineering and Physics in May 2013 at Washington University in St. Louis. Proceeding graduation, he plans to pursuit a career in data analysis at a technology company.</div>
     </div> 
 
-      </section>-->
+      </section>
 
       <section id="education">
             <div class="row">
@@ -113,7 +113,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <ul>
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Operations Research, Stochastic Models, Signals Analysis.</li>
-<li><span style="font-weight: bold">Senior Project:</span> Analysis of Aisle411 Usage Data <span style="font-style:italic">(In Progress)</span></li>
+<li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/" target="_BLANK">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
 </ul>',"");
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
 
@@ -356,5 +356,11 @@ function project($name,$look,$code) {
 		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i>p</span></a>';
 	}
 	echo '</li>';
+}
+
+function extra($title,$blob) {
+	echo '<div class="row">
+				<div class="span2">
+				<span class="pull-right hidden-phone"><strong>'.$title.'</strong></
 }
 ?>
