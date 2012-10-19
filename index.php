@@ -282,9 +282,8 @@ function iprogram($language,$percent) {
 	echo '
 	<div class="row">
 	    <div class="span3">
-		<h4 style="text-align: center">'.$language.'</h4>
+		<p><h4 style="text-align: center">'.$language.'</h4></p>
 		</div>
-		<div class="span1"></div>
 		<div class="span4">
 	      <div class="progress">
 	        <div class="bar" style="width: '.$percent.'%;"></div>
