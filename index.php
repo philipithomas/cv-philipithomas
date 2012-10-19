@@ -297,8 +297,9 @@ iprogram('Mathematica','60');
 
       </section>
 
-      <footer>
-      <center>  <p>&copy; <a href="#">Philip I Thomas</a> 2012</p></center>
+      <footer style="padding-top: 20px;">
+	<hr />
+      <p style="text-align: center">&copy; <a href="#">Philip I Thomas</a> 2012</p>
       </footer>      
 
     </div> <!-- /container -->
