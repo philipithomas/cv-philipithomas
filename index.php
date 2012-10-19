@@ -199,6 +199,8 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 			</ul>
 		</div>
 	</div>
+	
+	<div class="span9">
 <?php
 iprogram('Python','60');
 iprogram('Python','60');
@@ -207,6 +209,7 @@ iprogram('Python','60');
 iprogram('Python','60');
 
 ?>
+</div>
 </div>
       
       </section>
