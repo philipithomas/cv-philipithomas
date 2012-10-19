@@ -156,7 +156,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
 	position("Food Trucks Near Me","Saint Louis, MO","Founder","6/12-Present",'
 	<ul>
-	<li>Developed, launched, and marketed food truck finder website with successful launches in five cities, resulting in extensive media coverage, sustained web traffic, and advertising revenue.</li>
+	<li>Developed, launched, and marketed food truck finder website with successful launches in five cities, resulting in extensive media coverage and sustained web traffic.</li>
 	<li>Designed cross-platform CRM system to infer user cities of interest based on interactions with email updates and website, resulting in increased advertising relevancy for users.</li>
 	</ul>',"http://foodtrucksnearme.com");
 	
