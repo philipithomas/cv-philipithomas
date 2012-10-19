@@ -191,8 +191,8 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
 	<div class="span8">
 <?php
-iprogram('Matlab','85');
-iprogram('PHP','90');
+iprogram('Matlab','90');
+iprogram('PHP','85');
 iprogram('Java','55');
 iprogram('CSS','40');
 iprogram('Python','45');
