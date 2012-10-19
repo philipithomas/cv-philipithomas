@@ -272,7 +272,7 @@ iprogram('Unix System Administration','40');
 	extra('Awards','One<br />Two<br />Three<br />');
 	
 	?>
-	</div><div class="span8">
+	</div><div class="span4">
 	<div class="well">
 		<h4>Selected Press</h4>
 		<hr />
