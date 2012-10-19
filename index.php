@@ -262,6 +262,13 @@ iprogram('Unix System Administration','40');
       <h2>Honors and Skills</h2>
       </div>
     </div> <!-- end row -->
+	<?php
+	
+	extra('Awards','One<br />Two<br />Three<br />');
+	extra('Awards','One<br />Two<br />Three<br />');
+	extra('Awards','One<br />Two<br />Three<br />');
+	
+	?>
 
 
       </section>
@@ -366,7 +373,8 @@ function extra($title,$blob) {
 				</div>
 				<div class="span9">
 					'.$blob.'
-				</div>';
+				</div>
+			</div>';
 				
 }
 ?>
