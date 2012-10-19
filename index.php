@@ -77,7 +77,7 @@
 		</div>
     </div> 
 <div class="row">
-<div class="span4"></div>
+	<div class="span4"></div>
 
 	<div class="span1">
 	<a href="http://philipithomas.com" class="btn btn-mini">Homepage</a>
@@ -91,11 +91,9 @@
 	<div class="span1">
 	<a href="http://linkedin.com/in/philipithomas" class="btn btn-mini">LinkedIn</a>
 	</div>
-</div>
-	
-	</div>
-	
+		
 	<div class="span4">
+</div>
 	</header>
 
 
