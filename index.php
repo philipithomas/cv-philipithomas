@@ -146,7 +146,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	</ul>', "http://wute.org");
 	
 	
-	position("Washington University in St. Louis Department of Physics","Saint Louis, MO","Teaching Assistant, General Physics I and General Physics II","8/11-Present",'');
+	position("Washington University in St. Louis Department of Physics","Saint Louis, MO","Teaching Assistant, General Physics I and General Physics II","8/11-Present","");
 	
 	
 	position("WUSauce","St. Louis, MO","Communication Chair","9/10-Present",'
