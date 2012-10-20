@@ -289,7 +289,7 @@ iprogram('Mathematica','60');
 	extra('Awards','Eagle Scout<br />Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com" target="_BLANK">Kill the Landline</a>)<br />Finalist in Spring
 	2011 Michigan Interactive Investments Competition');
 	extra('Language','Conversational Proficiency in Spanish');
-	extra('Organizations','The Engineer\'s Club of St. Louis');
+	extra('Organizations','The Engineers\' Club of St. Louis');
 	extra('Interests','Salsa Dancing<br /><a href="http://beer.philipithomas.com" target="_BLANK">Craft Beer</a><br />Coffee<br />Rock Climbing');
 	
 	?>
