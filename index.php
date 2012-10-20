@@ -393,11 +393,16 @@ function iprogram($language,$percent) {
 
 function project($name,$look,$code) {
 	// Makes lists for displaying projects
-	echo '<li style="padding-top: 12px">'.$name;
+	echo '<li style="padding-top: 12px">';
+	
 	if (!empty($look)) {
 		// link to look at completed project
-		echo ' <a href="'.$look.'" target="_BLANK" ><span class="badge badge-success">Visit <i class="icon-arrow-right icon-white"></i></label></a>';
+		echo '<a href="'.$look.'" target="_BLANK" >'.$name.'</a>';
 	}
+	else {
+		echo $name;
+	}
+	
 	if (!empty($code)) {
 		// link to look at completed project
 		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i></span></a>';
