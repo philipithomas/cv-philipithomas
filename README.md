@@ -11,7 +11,7 @@ Live at [cv.philipithomas.com](http://cv.philipithomas.com).
 
 #Building Your Own
 
-Feel free to fork this repository and build your own resume. I used a couple basic PHP functions to keep formatting consistent. In addition, I host on Heroku, which is free for small scale and easy to integrate with git.
+Feel free to fork this repository and build your own resume. I used a couple basic PHP functions to keep formatting consistent. In addition, I host on Heroku, which is free for small scale and easy to integrate with git. Also, don't forget to swap in your Google Analytics code for mine! 
 
 #Upcoming Improvements
 
