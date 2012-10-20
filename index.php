@@ -110,7 +110,7 @@
           </div> 
           <div class="row">
       
-      <div class="span12">Philip I. Thomas is a senior at Washington University majoring in systems engineering and physics. He also works for Cultivation Capital as an analyst and is a founder of two startups — the Food Trucks Near Me website and Automation Kit, a company focused on helping companies automate their digital marketing. </div>
+      <div class="span12">Philip I. Thomas is a senior at Washington University majoring in systems engineering and physics. He also works for Cultivation Capital as an analyst and is a founder of two startups — the Food Trucks Near Me website and Automation Kit, a company focused on helping companies automate their digital marketing. He intends to work in data analysis after graduation, and is currently seeking opportunities beginning in May 2013. </div>
     </div> 
 
       </section>
