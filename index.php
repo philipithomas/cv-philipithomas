@@ -163,7 +163,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
 	
 	position("Cultivation Capital","Saint Louis, MO","Analyst","3/12-Present",'
-	<up
+	<ul>
 	<li>Performed screening of potential investments with a focus on technical analysis of technology and operations for due diligence reporting. </li>
 	</ul>',"http://cultivationcapital.com");
 	
