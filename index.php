@@ -88,7 +88,7 @@
 	<div class="span12">
 		<h3 style="text-align: center; text-style: italic">Curriculum Vitae for</h3>
 		
-      <h1 style="padding: 10px 0px; text-align: center; font-size: 60px">Philip I. Thomas</h1>
+      <h1 style="padding: 10px 0px; text-align: center; font-size: 60px; line-height: 70px;">Philip I. Thomas</h1>
 	<span class="" style="text-align: center;"> 
 		<address>
 		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
