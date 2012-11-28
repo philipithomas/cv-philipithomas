@@ -146,6 +146,11 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
     </div> <!-- end row -->
     <?php
 
+    position("Text Reject","Saint Louis, MO","Co-Founder","10/12-Present",'
+	<ul>
+	<li>Designed, programmmed, and marketed an series of rejection-sending phone numbers that publish conversations online.</li>
+	<li>Contestant in <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
+	</ul>','http://textreject.com.com');
 
 	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
 	<ul>
@@ -173,6 +178,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<li>Launched wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs, resulting in sponsorship by <a href="http://cultivationcaptital.com" target="_BLANK">Cultivation Capital</a>.</li>
 	<li>Attracted over 200 students to <a href="http://wute.vc/2012/10/press-release-alexis-ohanian-kicks-off-student-run-venture-capital-lecture-series-at-wustl/">first wute.vc speech by Reddit Co-Founder Alexis Ohanian</a> using a paperless marketing campaign.</li>
 	<li>Designed <a href="http://wute.vc" target="_BLANK">wute.vc</a> and re-designed <a href="http://wute.org" target="_BLANK">wute.org</a> websites.</li>
+	<li>Secured entry to the <a href="http://www.rackspacestartups.com/">Rackspace Startup Program</a>, including $3,000 worth of free hosting</li>
 	</ul>', "http://wute.org");
 	
 	
@@ -262,6 +268,7 @@ iprogram('Mathematica','60');
 		<?php
 			project('Food Trucks Near Me','http://www.foodtrucksnearme.com','');
 			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
+			project('Text Reject','http://textreject.com','https://github.com/textreject');
 			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
 			project('Curriculum Vitae','','https://github.com/philipithomas/cv-philipithomas');
 			project('Kill The Landline','http://killthelandline.com','');
