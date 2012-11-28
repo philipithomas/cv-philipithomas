@@ -125,7 +125,7 @@
 <?php
 position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of Science in Systems Engineering and Physics","Expected 5/13",'
 <ul>
-<li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
+<li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Operations Research, Stochastic Models, Signals Analysis.</li>
 <li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/" target="_BLANK">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
 </ul>',"");
