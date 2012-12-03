@@ -110,7 +110,8 @@
           </div> 
           <div class="row">
       
-      <div class="span12">Philip I. Thomas is a senior at Washington University majoring in systems engineering and physics. He also works for Cultivation Capital as an analyst and is a founder of two startups — the Food Trucks Near Me website and Automation Kit, a company focused on helping companies automate their digital marketing. He plans to work in data analysis after graduation, and is currently seeking employment opportunities. </div>
+      <div class="span12"><p>I study at <a href="http://wustl.edu">Washington University in St. Louis</a>, and in Spring 2013 I will graduate with majors in Systems Engineering and Physics, and with a minor in Electrical Engineering. After graduation, I intend to work in software engineering, and I currently seek employment opportunities. My full resume is available <a href="http://cv.philipithomas.com">here</a>. I serve as an Associate on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. My recent projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://foodtrucksnearme.com">Food Trucks Near Me</a>, and <a href="http://automationkit.com">Automation Kit</a>. Press coverage for these and other projects is aggregated <a href="/press">here</a>. I dance on the Salsa performance team <a href="http://wusauce.wustl.edu">WUSauce</a>, and I run <a href="http://wute.vc">wute.vc</a>, a venture-capital lecture series in the <a href="http://wute.org">Washington University Tech Entrepreneurs</a> club. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.</p>
+ </div>
     </div> 
 
       </section>
