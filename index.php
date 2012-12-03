@@ -167,7 +167,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	</ul>',"http://foodtrucksnearme.com");
 	
 	
-	position("Cultivation Capital","Saint Louis, MO","Analyst","3/12-Present",'
+	position("Cultivation Capital","Saint Louis, MO","Associate","3/12-Present",'
 	<ul>
 	<li>Performed screening of potential investments with a focus on technical analysis of technology and operations for due diligence reporting. </li>
 	</ul>',"http://cultivationcapital.com");
