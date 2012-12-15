@@ -110,10 +110,12 @@
           </div> 
           <div class="row">
       
- 		<div class="span12"><p>Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Associate on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a>, and <a href="http://automationkit.com">Automation Kit</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.</p></div> 
+ 		<div class="span12"><p>
+ 			Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Associate on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a>, and <a href="http://automationkit.com">Automation Kit</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.
+ 		</p>
 
  </div>
-    </div> 
+</div> 
 
       </section>
 
