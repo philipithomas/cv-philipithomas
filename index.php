@@ -111,7 +111,7 @@
           <div class="row">
       
  		<div class="span12"><p>
- 			Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Associate on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a>, and <a href="http://automationkit.com">Automation Kit</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.
+ 			Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Analyst on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a>, and <a href="http://automationkit.com">Automation Kit</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.
  		</p>
 
  </div>
@@ -127,11 +127,13 @@
       </div>
     </div> <!-- end row -->
 <?php
-position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of Science in Systems Engineering and Physics","Expected 5/13",'
+position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of Science","Expected 5/13",'
 <ul>
-<li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
-<li><span style="font-weight: bold">Relevant Coursework:</span> Operations Research, Stochastic Models, Signals Analysis.</li>
-<li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/" target="_BLANK">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
+li><span style="font-weight: bold">Majors:</span> Systems Engineering, Physics</li>
+<li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> 
+<li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
+<li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Models.</li>
+<li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
 </ul>',"");
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
 
@@ -153,7 +155,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
     position("Text Reject","Saint Louis, MO","Co-Founder","10/12-Present",'
 	<ul>
 	<li>Designed, programmmed, and marketed an series of rejection-sending phone numbers that publish conversations online.</li>
-	<li>Contestant in <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
+	<li>Semifinalist in national <a href="http://studentstartupmadness">Student Startup Madness</a> competition.</li>
 	</ul>','http://textreject.com.com');
 
 	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
@@ -297,8 +299,11 @@ iprogram('Mathematica','60');
 	<div class="span8">
 	<?php
 	
-	extra('Awards','Eagle Scout<br />Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com" target="_BLANK">Kill the Landline</a>)<br />Finalist in Spring
-	2011 Michigan Interactive Investments Competition');
+	extra('Awards','
+		Eagle Scout<br />
+		Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com">Kill the Landline</a>)<br />
+		Semifinalist in <a href="http://studentstartupmadness.com">Student Startup Madness</a> (<a href="http://textreject.com">Text Reject</a>)<br />
+		Finalist in Spring 2011 Michigan Interactive Investments Competition');
 	extra('Language','Conversational Proficiency in Spanish');
 	extra('Organizations','The Engineers\' Club of St. Louis');
 	extra('Interests','Salsa Dancing<br /><a href="http://beer.philipithomas.com" target="_BLANK">Craft Beer</a><br />Coffee<br />Rock Climbing');
