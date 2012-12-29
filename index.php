@@ -273,6 +273,7 @@ iprogram('Mathematica','60');
 		<ul>
 		<?php
 			project('Food Trucks Near Me','http://www.foodtrucksnearme.com','');
+			project('Numbers.js Advanced Mathematics Library for Node.js and JavaScript <em>(contributor)</em>','','https://github.com/sjkaliski/numbers.js');
 			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
 			project('Text Reject','http://textreject.com','https://github.com/textreject');
 			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
