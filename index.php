@@ -129,7 +129,7 @@
 <?php
 position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of Science","Expected 5/13",'
 <ul>
-li><span style="font-weight: bold">Majors:</span> Systems Engineering, Physics</li>
+<li><span style="font-weight: bold">Majors:</span> Systems Engineering, Physics</li>
 <li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> 
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Models.</li>
