@@ -155,7 +155,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
     position("Text Reject","Saint Louis, MO","Co-Founder","10/12-Present",'
 	<ul>
 	<li>Designed, programmmed, and marketed an series of rejection-sending phone numbers that publish conversations online.</li>
-	<li>Semifinalist in national <a href="http://studentstartupmadness">Student Startup Madness</a> competition.</li>
+	<li>Semifinalist in national <a href="http://studentstartupmadness.com">Student Startup Madness</a> competition.</li>
 	</ul>','http://textreject.com.com');
 
 	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
