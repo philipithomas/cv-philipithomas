@@ -156,7 +156,13 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Designed, programmmed, and marketed an series of rejection-sending phone numbers that publish conversations online.</li>
 	<li>Semifinalist in national <a href="http://studentstartupmadness.com">Student Startup Madness</a> competition.</li>
-	</ul>','http://textreject.com.com');
+	</ul>','http://textreject.com');
+
+	position("Rackspace","Remote","Technical Blogger","12/12-Present",'
+	<ul>
+	<li>Contract Position.</li>
+	<li>Wrote articles on Rackspace Cloud Files implementations for the <a href="http://rackspace.com/blog">Official Rackspace Blog</a>.</li>
+	</ul>','http://www.rackspace.com/blog/author/philip-thomas/');
 
 	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
 	<ul>
