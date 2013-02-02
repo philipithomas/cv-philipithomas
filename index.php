@@ -212,11 +212,6 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<li><span style="font-style:italic;">Selected Clients:</span> Sparo Labs, Evetos, On The Edge, St. Albans Promotions.</li>
 	</ul>',"http://sapientiamedia.com");
 	
-	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-12/12",'
-	<ul>
-	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
-	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
-	</ul>','http://automationkit.com');
 	
 	
 	position("Washington University Student Investment Fund","St. Louis, MO","Communication Chair","1/10-6/12",'
