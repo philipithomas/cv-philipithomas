@@ -111,7 +111,7 @@
           <div class="row">
       
  		<div class="span12"><p>
- 			Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Analyst on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a>, and <a href="http://automationkit.com">Automation Kit</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.
+ 			Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Analyst on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a> and <a href="http://automationkit.com">Automation Kit</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.
  		</p>
 
  </div>
@@ -132,7 +132,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <li><span style="font-weight: bold">Majors:</span> Systems Engineering, Physics</li>
 <li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> 
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
-<li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Models.</li>
+<li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Simulation, Operations Research.</li>
 <li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
 </ul>',"");
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
@@ -164,7 +164,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<li>Wrote articles on Rackspace Cloud Files implementations for the <a href="http://rackspace.com/blog">Official Rackspace Blog</a>.</li>
 	</ul>','http://www.rackspace.com/blog/author/philip-thomas/');
 
-	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
+	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-12/12",'
 	<ul>
 	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
 	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
@@ -201,15 +201,22 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Performed with audition-only salsa dance team, taught salsa lessons, and participated in community outreach.</li>
 	<li>Implemented improved website and email marketing system, resulting in 20% increase in annual audition attendance and 200% increase in weekly lesson retention throughout each semester.</li>
+	<li>Managed public relations campaign, including negotiating a <a href="http://www.philipithomas.com/wusauce-tv/">live performance on TV</a></li>
 	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012, resulting in over 500 students attending each event.</li>
 	</ul>',"http://wusauce.wustl.edu");
 	
 	
 	position("Sapientia Media","St. Louis, MO","President","5/10-Present",'
 	<ul>
-	<li>Spearheaded client relation management, digital marketing strategy, website design, and brand positioning services.</li>
-	<li><span style="font-style:italic;">Selected Clients:</span> Evetos, On The Edge, St. Albans Promotions.</li>
+	<li>Conduct freelance programming and marketing.</li>
+	<li><span style="font-style:italic;">Selected Clients:</span> Sparo Labs, Evetos, On The Edge, St. Albans Promotions.</li>
 	</ul>',"http://sapientiamedia.com");
+	
+	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-12/12",'
+	<ul>
+	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
+	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
+	</ul>','http://automationkit.com');
 	
 	
 	position("Washington University Student Investment Fund","St. Louis, MO","Communication Chair","1/10-6/12",'
@@ -260,11 +267,12 @@ iprogram('PHP','85');
 iprogram('Java','55');
 iprogram('CSS','40');
 iprogram('Python','45');
+iprogram('Ruby','45');
 iprogram('Relational Databases','85');
 iprogram('NoSQL Databases','55'); 
 iprogram('Javascript','20');
 iprogram('Adobe CS6','40');
-iprogram('Git','70');
+iprogram('Git','80');
 iprogram('Unix System Administration','40');
 iprogram('Mathematica','60');
 
@@ -313,7 +321,7 @@ iprogram('Mathematica','60');
 		Finalist in Spring 2011 Michigan Interactive Investments Competition');
 	extra('Language','Conversational Proficiency in Spanish');
 	extra('Organizations','The Engineers\' Club of St. Louis');
-	extra('Interests','Salsa Dancing<br /><a href="http://beer.philipithomas.com" target="_BLANK">Craft Beer</a><br />Coffee<br />Rock Climbing');
+	extra('Interests','Salsa Dancing<br /><a href="http://beer.philipithomas.com">Craft Beer</a><br />Coffee<br />Rock Climbing');
 	
 	?>
 	</div>
