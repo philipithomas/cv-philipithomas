@@ -28,7 +28,7 @@
 
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-9939917-3']);
-	  _gaq.push(['_setDomainName', 'philipithomas.com']);
+	  _gaq.push(['_setDomainName', 'cv.philipithomas.com']);
 	  _gaq.push(['_trackPageview']);
 
 	  (function() {
