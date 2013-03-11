@@ -133,7 +133,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> 
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Simulation, Operations Research.</li>
-<li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
+<li><span style="font-weight: bold">Senior Project:</span> Binary Integer Programming Algorithm for Employee Scheduling  <span style="font-style:italic">(In Progress)</span></li>
 </ul>',"");
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
 
@@ -152,24 +152,20 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
     </div> <!-- end row -->
     <?php
 
+      position("Sparo Labs","Saint Louis, MO","Ruby on Rails Developer","1/13-Present",'
+	<ul>
+	<li>Contract Position.</li>
+	<li>Implemented Ruby on Rails-based application for capturing medical device signal, analysizing the recording with a signal processing algorithm, and outputting processed data with <a href="www.highcharts.com">Highcharts</a>.</li>
+	<li>Team member for <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
+	</ul>','http://sparolabs.com');
+
     position("Text Reject","Saint Louis, MO","Co-Founder","10/12-Present",'
 	<ul>
 	<li>Designed, programmmed, and marketed an series of rejection-sending phone numbers that publish conversations online.</li>
+	<li>Current semifinalist for <a href="http://archgrants.org/">Arch Grants International Startup Competition</a>.</li>
 	<li>Semifinalist in national <a href="http://studentstartupmadness.com">Student Startup Madness</a> competition.</li>
 	</ul>','http://textreject.com');
 
-	position("Rackspace","Remote","Technical Blogger","12/12-Present",'
-	<ul>
-	<li>Contract Position.</li>
-	<li>Wrote articles on Rackspace Cloud Files implementations for the <a href="http://rackspace.com/blog">Official Rackspace Blog</a>.</li>
-	</ul>','http://www.rackspace.com/blog/author/philip-thomas/');
-
-	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-12/12",'
-	<ul>
-	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
-	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
-	</ul>','http://automationkit.com');
-	
 	
 	position("Food Trucks Near Me","Saint Louis, MO","Founder","6/12-Present",'
 	<ul>
@@ -211,6 +207,20 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<li>Conduct freelance programming and marketing.</li>
 	<li><span style="font-style:italic;">Selected Clients:</span> Sparo Labs, Evetos, On The Edge, St. Albans Promotions.</li>
 	</ul>',"http://sapientiamedia.com");
+
+		position("Rackspace","Remote","Technical Blogger","12/12-1/13",'
+	<ul>
+	<li>Contract Position.</li>
+	<li>Wrote articles on Rackspace Cloud Files implementations for the <a href="http://rackspace.com/blog">Official Rackspace Blog</a>.</li>
+	</ul>','http://www.rackspace.com/blog/author/philip-thomas/');
+
+	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-12/12",'
+	<ul>
+	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
+	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
+	</ul>','http://automationkit.com');
+	
+
 	
 	
 	
