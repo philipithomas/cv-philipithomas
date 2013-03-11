@@ -218,7 +218,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
 	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
-	</ul>','http://automationkit.com');
+	</ul>',);
 	
 
 	
@@ -269,7 +269,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 <?php
 iprogram('Matlab','90');
 iprogram('PHP','85');
-iprogram('Java','55');
+iprogram('Java','50');
 iprogram('CSS','40');
 iprogram('Python','45');
 iprogram('Ruby','45');
