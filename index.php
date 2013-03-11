@@ -218,7 +218,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	<ul>
 	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
 	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
-	</ul>',);
+	</ul>');
 	
 
 	
