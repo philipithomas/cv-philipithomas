@@ -129,8 +129,8 @@
 <?php
 position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of Science","Expected 5/13",'
 <ul>
-<li><span style="font-weight: bold">Majors:</span> Systems Engineering, Physics</li>
-<li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> 
+<li><span style="font-weight: bold">Majors:</span> Systems Engineering, Physics.</li>
+<li><span style="font-weight: bold">Minor:</span> Electrical Engineering.</li> 
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Simulation, Operations Research.</li>
 <li><span style="font-weight: bold">Senior Project:</span> Binary Integer Programming Algorithm for Employee Scheduling  <span style="font-style:italic">(In Progress)</span></li>
@@ -155,7 +155,7 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
       position("Sparo Labs","Saint Louis, MO","Ruby on Rails Developer","1/13-Present",'
 	<ul>
 	<li>Contract Position.</li>
-	<li>Implemented Ruby on Rails-based application for capturing medical device signal, analysizing the recording with a signal processing algorithm, and outputting processed data with <a href="www.highcharts.com">Highcharts</a>.</li>
+	<li>Implemented Ruby on Rails-based application for capturing medical device signal, analyzing the recording with a signal processing algorithm, and outputting processed data with <a href="www.highcharts.com">Highcharts</a>.</li>
 	<li>Team member for <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
 	</ul>','http://sparolabs.com');
 
@@ -272,7 +272,7 @@ iprogram('PHP','85');
 iprogram('Java','50');
 iprogram('CSS','40');
 iprogram('Python','45');
-iprogram('Ruby','45');
+iprogram('Ruby','60');
 iprogram('Relational Databases','85');
 iprogram('NoSQL Databases','55'); 
 iprogram('Javascript','20');
@@ -323,6 +323,7 @@ iprogram('Mathematica','60');
 		Eagle Scout<br />
 		Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com">Kill the Landline</a>)<br />
 		Semifinalist in <a href="http://studentstartupmadness.com">Student Startup Madness</a> (<a href="http://textreject.com">Text Reject</a>)<br />
+		Current semifinalist in <a href="http://archgrants.org">Arch Grants Global Startup Competition</a> (<a href="http://textreject.com">Text Reject</a>)<br />
 		Finalist in Spring 2011 Michigan Interactive Investments Competition');
 	extra('Language','Conversational Proficiency in Spanish');
 	extra('Organizations','The Engineers\' Club of St. Louis');
