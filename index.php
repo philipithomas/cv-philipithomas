@@ -111,8 +111,7 @@
           <div class="row">
       
  		<div class="span12"><p>
- 			Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Analyst on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a> and <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.
- 		</p>
+ graduate this May from Washington University in St. Louis, where I am pursuing a Bachelor of Science degree in Systems Engineering with a second major in Physics and a minor in Electrical Engineering. Data, analytics, operations research, and CRM interest me. I work on the due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>, I have built projects like <a href="http://textreject.com">Text Reject</a> and <a href="http://foodtrucksnearme.com">Food Trucks Near Me</a>, and I am a freelance developer. In my free time, I perform on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and I run <a href="http://wute.vc">wute.vc</a>, a venture capital lecture series.  		</p>
 
  </div>
 </div> 
