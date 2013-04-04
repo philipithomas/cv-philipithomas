@@ -111,7 +111,7 @@
           <div class="row">
       
  		<div class="span12"><p>
-I graduate this May from Washington University in St. Louis, where I am pursuing a Bachelor of Science degree in Systems Engineering with a second major in Physics and a minor in Electrical Engineering. Data, analytics, operations research, and CRM interest me. I work on the due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>, I have built projects like <a href="http://textreject.com">Text Reject</a> and <a href="http://foodtrucksnearme.com">Food Trucks Near Me</a>, and I am a freelance developer. In my free time, I perform on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and I run <a href="http://wute.vc">wute.vc</a>, a venture capital lecture series.  		</p>
+I graduate this May from Washington University in St. Louis, where I am pursuing a Bachelor of Science degree in Systems Engineering with a second major in Physics and a minor in Electrical Engineering. After graduation I am joining <a href="http://opendns.com">OpenDNS</a> in San Francisco as a Software Engineer. I work on the due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>, I have built projects like <a href="http://textreject.com">Text Reject</a> and <a href="http://foodtrucksnearme.com">Food Trucks Near Me</a>, and I am a freelance developer. In my free time, I perform on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and I run <a href="http://wute.vc">wute.vc</a>, a venture capital lecture series.  		</p>
 
  </div>
 </div> 
@@ -150,6 +150,8 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
       </div>
     </div> <!-- end row -->
     <?php
+
+      position('OpenDNS', 'San Francisco, CA', 'Software Engineer', 'Start 6/13','','http://opendns.com');
 
       position("Sparo Labs","Saint Louis, MO","Ruby on Rails Developer","1/13-Present",'
 	<ul>
