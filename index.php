@@ -42,44 +42,7 @@
   </head>
 
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
-<!--
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            </a>
-          <a class="brand" href="#">Curriculum Vitae</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li><a href="#about">About</a></li>
-              <li><a href="#education">Education</a></li>
-              <li><a href="#experience">Experience</a></li>
-              <li><a href="#technical">Technical</a></li>
-              <li><a href="#honors">Honors</a></li>
-              
-            </ul>
-            <div class="nav-collapse collapse pull-right">
-            <ul class="nav">
-              <li><a href="http://philipithomas.com" target="_blank>">Homepage</a></li>
-              <li class="dropdown ">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            Links <i class="caret"></i>
-                            </a>
 
-                   <ul class="dropdown-menu ">
-                                <li><a href="http://linkedin.com/in/philiptihomas" target="_blank">LinkedIn</a></li>
-                <li><a href="http://github.com/philipithomas" target="_blank">Github</a></li>
-                <li><a href="http://twitter.com/philipithomas" target="_blank"><i class="icon-off"></i> Sign Out</a></li>
-            </ul>
-               </li>
-              <li><a href="/resume.pdf">Download PDF</a></li>          
-            </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
--->
     <div class="container">
 	
 	<header class="jumbotron">
@@ -93,7 +56,6 @@
 		<address>
 		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
 		<a href="mailto:#">mail@philipithomas.com</a><br />
-		<a>+1.209.867.7445</a>
 		</address>
 	</span>
 		</div>
@@ -111,7 +73,7 @@
           <div class="row">
       
  		<div class="span12"><p>
-I graduate this May from Washington University in St. Louis, where I am pursuing a Bachelor of Science degree in Systems Engineering with a second major in Physics and a minor in Electrical Engineering. After graduation I am joining <a href="http://opendns.com">OpenDNS</a> in San Francisco as a Software Engineer. I work on the due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>, I have built projects like <a href="http://textreject.com">Text Reject</a> and <a href="http://foodtrucksnearme.com">Food Trucks Near Me</a>, and I am a freelance developer. In my free time, I perform on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and I run <a href="http://wute.vc">wute.vc</a>, a venture capital lecture series.  		</p>
+I graduate this month from Washington University in St. Louis, where I am pursuing a Bachelor of Science degree in Systems Engineering with a second major in Physics and a minor in Electrical Engineering. After graduation I am joining <a href="http://opendns.com">OpenDNS</a> in San Francisco as a Software Engineer. </p>
 
  </div>
 </div> 
@@ -151,14 +113,9 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
     </div> <!-- end row -->
     <?php
 
-      position('OpenDNS', 'San Francisco, CA', 'Software Engineer', 'Start 6/13','','http://opendns.com');
+      position('OpenDNS', 'San Francisco, CA', 'Software Engineer', '5/13-Present','','http://opendns.com');
 
-      position("Sparo Labs","Saint Louis, MO","Software Engineer","1/13-5/13",'
-	<ul>
-	<li>Contract Position.</li>
-	<li>Implemented Ruby on Rails-based application for capturing medical device signal, analyzing the recording with a signal processing algorithm in Matlab, and outputting processed data with <a href="www.highcharts.com">Highcharts</a>.</li>
-	<li>Won 1st place in <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
-	</ul>','http://sparolabs.com');
+     
 
     position("Text Reject","Saint Louis, MO","Co-Founder","10/12-Present",'
 	<ul>
@@ -168,46 +125,44 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	</ul>','http://textreject.com');
 
 	
-	position("Food Trucks Near Me","Saint Louis, MO","Founder","6/12-Present",'
+
+	 position("Sparo Labs","Saint Louis, MO","Software Engineer","1/13-5/13",'
 	<ul>
-	<li>Developed, launched, and marketed food truck finder website with successful launches in five cities, resulting in extensive media coverage and sustained web traffic.</li>
-	<li>Designed cross-platform CRM system to infer user cities of interest based on interactions with email updates and website, resulting in increased advertising relevancy for users.</li>
-	<li>Implemented automated cross-platform social media system resulting in high return traffic.</li>
-	</ul>',"http://foodtrucksnearme.com");
+	<li>Contract Position.</li>
+	<li>Implemented Ruby on Rails-based application for capturing medical device signal, analyzing the recording with a signal processing algorithm in Matlab, and outputting processed data with <a href="www.highcharts.com">Highcharts</a>.</li>
+	<li>Won 1st place in <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
+	</ul>','http://sparolabs.com');
+
+
 	
-	
-	position("Cultivation Capital","Saint Louis, MO","Analyst","3/12-Present",'
+	position("Cultivation Capital","Saint Louis, MO","Analyst","3/12-5/13",'
 	<ul>
-	<li>Performed screening of potential investments with a focus on technical analysis of technology and operations for due diligence reporting. </li>
+	<li>Performed screening of potential investments with a focus on technical analysis. </li>
 	</ul>',"http://cultivationcapital.com");
 	
 	
-	position("Washington University Tech Entrepreneurs (wute)","Saint Louis, MO","Director - wute.vc","9/11-Present",'
+	position("Washington University Tech Entrepreneurs (wute)","Saint Louis, MO","Director - wute.vc","9/11-5/13",'
 	<ul>
-	<li>Launched wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs, resulting in sponsorship by <a href="http://cultivationcaptital.com" target="_BLANK">Cultivation Capital</a>.</li>
+	<li>Launched wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs, resulting in sponsorship by <a href="http://cultivationcaptital.com">Cultivation Capital</a>.</li>
 	<li>Attracted over 200 students to <a href="http://wute.vc/2012/10/press-release-alexis-ohanian-kicks-off-student-run-venture-capital-lecture-series-at-wustl/">first wute.vc speech by Reddit Co-Founder Alexis Ohanian</a> using a paperless marketing campaign.</li>
 	<li>Designed <a href="http://wute.vc" target="_BLANK">wute.vc</a> and re-designed <a href="http://wute.org" target="_BLANK">wute.org</a> websites.</li>
 	<li>Secured entry to the <a href="http://www.rackspacestartups.com/">Rackspace Startup Program</a>, including $3,000 worth of free hosting</li>
+	<li>Ran and managed events with speakers including Twitter Founder Jack Dorsey, Square Founder Jim McKelvey, Venture Capitalist and Author Brad Feld, and Reddit Founder Alexis Ohanian</li>
 	</ul>', "http://wute.org");
 	
 	
-	position("Washington University in St. Louis Department of Physics","Saint Louis, MO","Teaching Assistant, General Physics I and General Physics II","8/11-Present","", "");
 	
 	
-	position("WUSauce","St. Louis, MO","Communication Chair","9/10-Present",'
+	position("WUSauce","St. Louis, MO","Communication Chair","9/10-5/13",'
 	<ul>
 	<li>Performed with audition-only salsa dance team, taught salsa lessons, and participated in community outreach.</li>
 	<li>Implemented improved website and email marketing system, resulting in 20% increase in annual audition attendance and 200% increase in weekly lesson retention throughout each semester.</li>
 	<li>Managed public relations campaign, including negotiating a <a href="http://www.philipithomas.com/wusauce-tv/">live performance on TV</a></li>
-	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012, resulting in over 500 students attending each event.</li>
+	<li>Served as Communication Director for annual Dance-Off event in 2011, 2012, and 2013, resulting in over 500 students attending each event.</li>
 	</ul>',"http://wusauce.wustl.edu");
 	
-	
-	position("Sapientia Media","St. Louis, MO","President","5/10-Present",'
-	<ul>
-	<li>Conduct freelance programming and marketing.</li>
-	<li><span style="font-style:italic;">Selected Clients:</span> Sparo Labs, Evetos, On The Edge, St. Albans Promotions.</li>
-	</ul>',"http://sapientiamedia.com");
+		position("Washington University in St. Louis Department of Physics","Saint Louis, MO","Teaching Assistant, General Physics I and General Physics II","8/11-5/13","", "");
+
 
 		position("Rackspace","Remote","Technical Blogger","12/12-1/13",'
 	<ul>
@@ -298,7 +253,6 @@ iprogram('Mathematica','60');
 			project('Text Reject','http://textreject.com','https://github.com/textreject');
 			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
 			project('Curriculum Vitae','','https://github.com/philipithomas/cv-philipithomas');
-			project('Kill The Landline','http://killthelandline.com','');
 		?>
 		</ul>
 		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></i></a><br />
@@ -341,8 +295,9 @@ iprogram('Mathematica','60');
 				<li>Forbes: <a href="http://www.forbes.com/sites/kaipetainen/2011/11/11/washu-students-provide-teva-some-healthy-love/">WashU Students Provide Teva Some Healthy Love</a></li>
 			<li>St. Louis Business Journal: <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/09/wutevc-starts-venture-capital-lecture.html">wute.vc starts venture capital lecture series</a></li>
 			<li>Fox 2 Now: <a href="http://philipithomas.com/2012/10/me-on-fox-2-news-for-text-reject/">Text Reject Founders Demonstrate Website Live on TV</a></li>
-		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://philipithomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></I></a><br />
+			<li>St. Louis Business Journal: <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2013/05/washington-university-students-win.html">Washington University students win $25,000 for medical device</a></li>
+			</ul>
+		<a class="pull-right btn btn-small btn-inverse" href="http://www.philipithomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></I></a><br />
 	</div>
 	</div>
 	</div>
@@ -352,7 +307,7 @@ iprogram('Mathematica','60');
 
       <footer style="padding-top: 20px;">
 	<hr />
-      <p style="text-align: center">&copy; <a href="http://www.philipithomas.com">Philip I Thomas</a> 2012</p>
+      <p style="text-align: center">&copy; <a href="http://www.philipithomas.com">Philip I Thomas</a> 2013</p>
       </footer>      
 
     </div> <!-- /container -->
