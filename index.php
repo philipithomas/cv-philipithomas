@@ -132,7 +132,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <li><span style="font-weight: bold">Minor:</span> Electrical Engineering.</li> 
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Simulation, Operations Research.</li>
-<li><span style="font-weight: bold">Senior Project:</span> Binary Integer Programming Algorithm for Employee Scheduling  <span style="font-style:italic">(In Progress)</span></li>
+<li><span style="font-weight: bold">Senior Project:</span> <a href="http://students.cec.wustl.edu/~pit1/">Binary Integer Programming Algorithm for Employee Scheduling</a></li>
 </ul>',"");
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
 
@@ -153,17 +153,17 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 
       position('OpenDNS', 'San Francisco, CA', 'Software Engineer', 'Start 6/13','','http://opendns.com');
 
-      position("Sparo Labs","Saint Louis, MO","Ruby on Rails Developer","1/13-Present",'
+      position("Sparo Labs","Saint Louis, MO","Software Engineer","1/13-5/13",'
 	<ul>
 	<li>Contract Position.</li>
-	<li>Implemented Ruby on Rails-based application for capturing medical device signal, analyzing the recording with a signal processing algorithm, and outputting processed data with <a href="www.highcharts.com">Highcharts</a>.</li>
-	<li>Team member for <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
+	<li>Implemented Ruby on Rails-based application for capturing medical device signal, analyzing the recording with a signal processing algorithm in Matlab, and outputting processed data with <a href="www.highcharts.com">Highcharts</a>.</li>
+	<li>Won 1st place in <a href="http://engineering.wustl.edu/disc-comp.aspx">WUSTL Discovery Competition</a>.</li>
 	</ul>','http://sparolabs.com');
 
     position("Text Reject","Saint Louis, MO","Co-Founder","10/12-Present",'
 	<ul>
 	<li>Designed, programmmed, and marketed an series of rejection-sending phone numbers that publish conversations online.</li>
-	<li>Current semifinalist for <a href="http://archgrants.org/">Arch Grants International Startup Competition</a>.</li>
+	<li>Semifinalist for <a href="http://archgrants.org/">Arch Grants International Startup Competition</a>.</li>
 	<li>Semifinalist in national <a href="http://studentstartupmadness.com">Student Startup Madness</a> competition.</li>
 	</ul>','http://textreject.com');
 
@@ -321,10 +321,9 @@ iprogram('Mathematica','60');
 	<?php
 	
 	extra('Awards','
+		1st place, <a href="http://news.wustl.edu/news/Pages/25373.aspx">2013 WUSTL Discovery Competition</a> (<a href="http://www.sparolabs.com">Sparo Labs</a<)<br />
 		Eagle Scout<br />
 		Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com">Kill the Landline</a>)<br />
-		Semifinalist in <a href="http://studentstartupmadness.com">Student Startup Madness</a> (<a href="http://textreject.com">Text Reject</a>)<br />
-		Current semifinalist in <a href="http://archgrants.org">Arch Grants Global Startup Competition</a> (<a href="http://textreject.com">Text Reject</a>)<br />
 		Finalist in Spring 2011 Michigan Interactive Investments Competition');
 	extra('Language','Conversational Proficiency in Spanish');
 	extra('Organizations','The Engineers\' Club of St. Louis');
