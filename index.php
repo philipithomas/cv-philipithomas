@@ -275,7 +275,7 @@ iprogram('Mathematica','60');
 	<?php
 	
 	extra('Awards','
-		1st place, <a href="http://news.wustl.edu/news/Pages/25373.aspx">2013 WUSTL Discovery Competition</a> (<a href="http://www.sparolabs.com">Sparo Labs</a<)<br />
+		1st place, <a href="http://news.wustl.edu/news/Pages/25373.aspx">2013 WUSTL Discovery Competition</a> (<a href="http://www.sparolabs.com">Sparo Labs</a>)<br />
 		Eagle Scout<br />
 		Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com">Kill the Landline</a>)<br />
 		Finalist in Spring 2011 Michigan Interactive Investments Competition');
