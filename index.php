@@ -94,7 +94,7 @@ position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of S
 <li><span style="font-weight: bold">Minor:</span> Electrical Engineering.</li> 
 <li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Simulation, Operations Research.</li>
-<li><span style="font-weight: bold">Senior Project:</span> <a href="http://students.cec.wustl.edu/~pit1/">Binary Integer Programming Algorithm for Employee Scheduling</a></li>
+<li><span style="font-weight: bold">Senior Project:</span> <a href="http://scheduling.philipithomas.com">Scheduling Algorithm with Optimization of Employee Satisfaction</a></li>
 </ul>',"");
 position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
 
