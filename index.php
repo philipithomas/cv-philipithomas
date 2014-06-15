@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +7,6 @@
     <meta name="description" content="Curriculum Vitae for Philip I. Thomas">
     <meta name="author" content="Philip I. Thomas">
 
-    <!-- Le styles -->
     <link href="../assets/css/bootstrap.css" rel="stylesheet">
     <style>
       body {
@@ -17,28 +15,11 @@
     </style>
     <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="../assets/ico/favicon.ico">
-	<script type="text/javascript">
-
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-9939917-3']);
-	  _gaq.push(['_setDomainName', 'cv.philipithomas.com']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-
-	</script>
-  
   </head>
 
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
