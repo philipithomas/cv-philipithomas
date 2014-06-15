@@ -5,19 +5,9 @@ Paper resumes suck. They are inconvenient to carry around. They are boring to re
 
 I decided to turn my resume into a website to address these concerns. This makes the site easy to access, and it allows linking to various projects. The site is based on the [Spacelab Bootswatch](http://bootswatch.com/), so design is responsive. Storing the site as a public git repository allows version control and a degree of accountability as changes are made.  
 
-#Visit
+# DEPRECATION
 
-Live at [cv.philipithomas.com](http://cv.philipithomas.com).
-
-#Building Your Own
-
-Feel free to fork this repository and build your own resume. I used a couple basic PHP functions to keep formatting consistent. In addition, I host on Heroku, which is free for small scale and easy to integrate with git. Also, don't forget to swap in your Google Analytics code for mine! 
-
-#Upcoming Improvements
-
-* Modals with further information about companies
-* Print to PDF function
-
+I no longer maintain this repo because I incorporated the resume into my personal website at [philipithomas.com/resume/](https://www.philipithomas.com/resume/). The new version uses Jekyll - check out its source [here](https://www.github.com/philipithomas/www.philipithomas.com). If you want to see a live example of this repository, check out [php-cv.herouapp.com](http://php-cv.herokuapp.com).
 
 
  
